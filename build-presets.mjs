@@ -24,7 +24,7 @@ function anchorRows(pad, tag) {
   const p = " ".repeat(pad);
   return [
     `${p}- id: fengcha-anchor`,
-    `${p}  name: '@local/dsh-we-need'`,
+    `${p}  name: 'dsh-fengcha'`,
     `${p}  config:`,
     `${p}    mode: head+tail`,
     `${p}    headSlot: 'anchor:${tag}:head'`,
@@ -116,7 +116,7 @@ const HEADER = `# 风插 · 双锚点预设（head + tail）
 # ══ 两个预设 ══
 #   fengcha-route   标准能力 + 双锚点
 #   fengcha-ptc     PTC 能力 + 双锚点
-# 两者都从编译后的官方 preset 原样克隆，唯一差异是多挂一个 @local/dsh-we-need 行。
+# 两者都从编译后的官方 preset 原样克隆，唯一差异是多挂一个 dsh-fengcha 行。
 #
 # 安装：plugin_manager install_bundle target=F:\\风插2.0\\we-need
 # 重启 DSH → 新会话选「风插 · 路由」或「风插 · PTC」。

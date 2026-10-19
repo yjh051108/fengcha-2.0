@@ -78,6 +78,44 @@ for (const [i, b] of anchorBlocks.entries()) {
   else bad(`锚点[${i}] slot 未隔离`);
 }
 
+console.log("\n=== 5b. 补丁内自引用包名必须等于 package.json 的 name ===");
+{
+  const pkgName = JSON.parse(fs.readFileSync(path.join(HERE, "package.json"), "utf8")).name;
+  const referenced = [...new Set([...yamlText.matchAll(/name:\s*['"]([^'"]+)['"]/g)].map((m) => m[1]))];
+  // 统计出现次数（要去重前后各算一次：referenced 是去重后的名字列表）
+  const selfRefs = referenced.filter((n) => n === pkgName);
+  const selfCount = [...yamlText.matchAll(new RegExp(`name:\\s*['"]${pkgName.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}['"]`, "g"))].length;
+  const staleLocal = referenced.filter((n) => n.startsWith("@local/"));
+  selfRefs.length >= 1 && selfCount >= 2
+    ? ok(`补丁引用了自身包名 ${pkgName}（${selfCount} 处）`)
+    : bad(`补丁里只有 ${selfCount} 处引用自身包名 ${pkgName} —— 预设挂载会报「缺包」并失败`);
+  if (staleLocal.length) bad("补丁里仍有 @local/* 旧包名: " + staleLocal.join(", "));
+  else ok("无 @local/* 残留");
+}
+
+console.log("\n=== 5c. 补丁引用的所有包是否可解析 ===");
+{
+  const pkgName = JSON.parse(fs.readFileSync(path.join(HERE, "package.json"), "utf8")).name;
+  const names = [...new Set([...yamlText.matchAll(/name:\s*['"]([^'"][^'"]*)['"]/g)].map((m) => m[1]))];
+  // DSH 从 profile 的 node_modules 解析；官方包作 peer 由 DSH app 提供。
+  // 判据：取包根（前两段），忽略 /tools 之类子路径导出。
+  const profileModules = path.join(process.env.USERPROFILE || process.env.HOME || "", ".dsh", "profiles", "desktop", "node_modules");
+  const appModules = "D:/app/DSH Desktop/resources/app/node_modules";
+  const unresolvable = [];
+  for (const n of names) {
+    if (n === pkgName) continue;
+    if (!n.startsWith("@")) continue; // 非 scoped 的第三方名不在此校验
+    const pkgRoot = n.split("/").slice(0, 2).join("/");
+    const okHere =
+      fs.existsSync(path.join(profileModules, pkgRoot)) ||
+      fs.existsSync(path.join(appModules, pkgRoot));
+    if (!okHere) unresolvable.push(n);
+  }
+  unresolvable.length === 0
+    ? ok(`补丁引用的 ${names.length - 1} 个外部包全部可解析`)
+    : wrn("以下包在当前环境解析不到（若它们确实该由 DSH 提供，可忽略）: " + unresolvable.join(", "));
+}
+
 console.log("\n=== 6. 作用域：只作用于 preset 内 ===");
 const anchorLines = yamlText.split("\n").map((l, i) => ({ l, i })).filter((x) => x.l.includes("id: fengcha-anchor"));
 let scopeOk = true;

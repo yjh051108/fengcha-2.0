@@ -43,7 +43,7 @@
 # ══ 两个预设 ══
 #   fengcha-route   标准能力 + 双锚点
 #   fengcha-ptc     PTC 能力 + 双锚点
-# 两者都从编译后的官方 preset 原样克隆，唯一差异是多挂一个 @local/dsh-we-need 行。
+# 两者都从编译后的官方 preset 原样克隆，唯一差异是多挂一个 dsh-fengcha 行。
 #
 # 安装：plugin_manager install_bundle target=<repo-root>\we-need
 # 重启 DSH → 新会话选「风插标准」或「风插 PTC」。
@@ -64,7 +64,7 @@
             config:
               prefix: You are a coding agent powered by the {{model}} model.
           - id: fengcha-anchor
-            name: '@local/dsh-we-need'
+            name: 'dsh-fengcha'
             config:
               mode: head+tail
               headSlot: 'anchor:route:head'
@@ -262,7 +262,7 @@
             config:
               prefix: You are a coding agent powered by the {{model}} model.
           - id: fengcha-anchor
-            name: '@local/dsh-we-need'
+            name: 'dsh-fengcha'
             config:
               mode: head+tail
               headSlot: 'anchor:ptc:head'

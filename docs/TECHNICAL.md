@@ -46,13 +46,13 @@
 ```jsonc
 {
   "dependencies": {
-    "@local/dsh-we-need": "link:./we-need"
+    "dsh-fengcha": "link:./we-need"
   },
   "dsh": {
     "profile": {
       "bundles": [
         // ……其他 bundle……
-        "@local/dsh-we-need"
+        "dsh-fengcha"
       ]
     }
   }
@@ -75,7 +75,7 @@ plugin_manager install_bundle target=<repo-root>\we-need
 
 ### 方式 B：直接放进 profile
 
-把整个 `we-need/` 目录复制到 `~/.dsh/profiles/desktop/node_modules/@local/dsh-we-need/`，
+把整个 `we-need/` 目录复制到 `~/.dsh/profiles/desktop/node_modules/dsh-fengcha/`，
 同样在 `package.json` 里声明依赖（用 `"file:"` 或版本号）与 bundle。
 
 ### 生效与验证
@@ -93,14 +93,14 @@ cp archive/cordis.patch.yml.bak-before-headtail cordis.patch.yml
 ```
 
 > 该备份是**改为头尾双锚点之前**的版本（单锚点、仅尾部）。
-> 若想完全移除：从 profile 的 `bundles` 数组和 `dependencies` 中删除 `@local/dsh-we-need`，
+> 若想完全移除：从 profile 的 `bundles` 数组和 `dependencies` 中删除 `dsh-fengcha`，
 > 删除对应 junction/符号链接，重启即可。
 
 ### 作用域保证（为什么不会污染其他预设）
 
 | 机制 | 说明 |
 |---|---|
-| 插件挂在 **preset 内部** | `@local/dsh-we-need` 只出现在 `fengcha-route` / `fengcha-ptc` 两个 preset 的 `plugins` 列表里 |
+| 插件挂在 **preset 内部** | `dsh-fengcha` 只出现在 `fengcha-route` / `fengcha-ptc` 两个 preset 的 `plugins` 列表里 |
 | 通过 `ctx.systemPrompt.context()` 注册 | 该 API 注册在**挂载作用域**（即 preset 的 scope）内，不是全局 |
 | 不修改任何全局配置 | 不改 `cordis.yml`、不改其他 preset、不改 DSH 源码 |
 | slot 名按 preset 隔离 | `anchor:route:*` / `anchor:ptc:*` 前缀不同，避免同进程多预设挂载时在合并层冲突 |
