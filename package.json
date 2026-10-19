@@ -1,9 +1,8 @@
 {
-  "name": "@local/dsh-we-need",
+  "name": "dsh-fengcha",
   "version": "2.0.0",
-  "private": true,
   "type": "module",
-  "description": "Fengcha register anchor presets for DeepSeek Harness: two agent presets (standard / PTC) that inject a formal paragraph-level constraint into the runtime-context snapshot so the model's reasoning opens in the first-person plural (We need / Our). This is a hard-instruction constraint, not an attractor.",
+  "description": "Fengcha 2.0 — DeepSeek Harness agent presets that make the model reason in the first person plural (We need / Our). Two presets: 风插标准 (standard) and 风插 PTC. Hard-instruction constraint, not an attractor; no capability claim.",
   "keywords": [
     "dsh",
     "deepseek-harness",
@@ -11,7 +10,7 @@
     "prompt",
     "reasoning-register"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "main": "lib/index.js",
   "exports": {
     ".": {
@@ -22,8 +21,9 @@
   "files": [
     "lib",
     "cordis.patch.yml",
+    "docs",
     "README.md",
-    "charts"
+    "LICENSE"
   ],
   "scripts": {
     "check": "node check-yaml.mjs",

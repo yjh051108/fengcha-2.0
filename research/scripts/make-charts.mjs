@@ -2,7 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const OUT = "./charts";
+const OUT = "../docs/charts";
 fs.mkdirSync(OUT, { recursive: true });
 
 const W = 720;
@@ -98,7 +98,7 @@ function groupedChart({ title, subtitle, groups, series, max, unit = "", note = 
 }
 
 // ── 图 1：句子类型消融 ────────────────────────────────────────────
-const ablation = JSON.parse(fs.readFileSync("./capbench/results/ablation-realwire.json", "utf8"));
+const ablation = JSON.parse(fs.readFileSync("../data/ablation-realwire.json", "utf8"));
 function agg(rows, key) {
   const sub = rows.filter((r) => r[key] && !r.error && r.ratio !== null);
   const by = {};
@@ -123,7 +123,7 @@ const CHART1 = barChart({
 });
 
 // ── 图 2：快照内部位置 ────────────────────────────────────────────
-const snap = JSON.parse(fs.readFileSync("./capbench/results/snapshot-position.json", "utf8"));
+const snap = JSON.parse(fs.readFileSync("../data/snapshot-position.json", "utf8"));
 const sByPos = agg(snap, "pos");
 const CHART2 = barChart({
   title: "图 2｜锚点在同一 runtime-context 快照内的位置",
@@ -141,7 +141,7 @@ const CHART2 = barChart({
 });
 
 // ── 图 3：system prompt 侧全部无效 ───────────────────────────────
-const sys = JSON.parse(fs.readFileSync("./capbench/results/sys-ablation.json", "utf8"));
+const sys = JSON.parse(fs.readFileSync("../data/sys-ablation.json", "utf8"));
 const sBySid = agg(sys, "sid");
 const CHART3 = barChart({
   title: "图 3｜改 system prompt 是否有用（全部无效）",
@@ -161,7 +161,7 @@ const CHART3 = barChart({
 });
 
 // ── 图 4：wire 层位置（不要挪到最后）────────────────────────────
-const rwp = JSON.parse(fs.readFileSync("./capbench/results/real-wire-position.json", "utf8"));
+const rwp = JSON.parse(fs.readFileSync("../data/real-wire-position.json", "utf8"));
 const rByKind = agg(rwp, "kind");
 const CHART4 = barChart({
   title: "图 4｜锚点在整条 wire 里的位置（别再往后挪）",
@@ -177,7 +177,7 @@ const CHART4 = barChart({
 });
 
 // ── 图 5：多轮重注入节奏 ─────────────────────────────────────────
-const ri = JSON.parse(fs.readFileSync("./capbench/results/reinject-cadence.json", "utf8"));
+const ri = JSON.parse(fs.readFileSync("../data/reinject-cadence.json", "utf8"));
 function aggCadence(rows) {
   const by = {};
   for (const r of rows) {
@@ -203,7 +203,7 @@ const CHART5 = barChart({
 });
 
 // ── 图 6：真实 Let me 底座上能否拉回 ─────────────────────────────
-const rba = JSON.parse(fs.readFileSync("./capbench/results/real-base-anchor.json", "utf8"));
+const rba = JSON.parse(fs.readFileSync("../data/real-base-anchor.json", "utf8"));
 const rByVar = agg(rba, "variant");
 const CHART6 = barChart({
   title: "图 6｜已深陷 Let me 的真实长会话能否拉回",

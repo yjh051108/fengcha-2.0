@@ -20,3 +20,8 @@ raw-results-*.jsonl
 extracted-session*.jsonl
 session*.jsonl
 sessions-events.json
+
+# 运行时产物
+_api_payload.json
+research/logs/
+research/scripts/.watch-state-*.json

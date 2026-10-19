@@ -155,7 +155,7 @@ rather than "Let me check".
 
 ### 4.2 图 1｜句子类型：形式指令 vs 吸引子
 
-![图1](../../charts/fig1-sentence-type.svg)
+![图1](charts/fig1-sentence-type.svg)
 
 - **F1/F2（形式指令）**：0.774 / 0.818
 - **A1/A2/A4（吸引子）**：0.127 / 0.003 / 0.039 —— 与无锚点（0.016）无统计差别
@@ -165,7 +165,7 @@ rather than "Let me check".
 
 ### 4.3 图 2｜快照内部位置
 
-![图2](../../charts/fig2-snapshot-position.svg)
+![图2](charts/fig2-snapshot-position.svg)
 
 | 位置 | 均 We 占比 |
 |---|---|
@@ -182,7 +182,7 @@ rather than "Let me check".
 
 ### 4.4 图 3｜改 system prompt 为什么没用
 
-![图3](../../charts/fig3-system-prompt.svg)
+![图3](charts/fig3-system-prompt.svg)
 
 我们试了 6 种 system prompt 侧改法，**全部停留在基线水平**（0.012–0.068 vs 基线 0.014）：
 
@@ -196,7 +196,7 @@ rather than "Let me check".
 
 ### 4.5 图 4｜wire 层位置（反直觉）
 
-![图4](../../charts/fig4-wire-position.svg)
+![图4](charts/fig4-wire-position.svg)
 
 | wire 结构 | 均 We 占比 |
 |---|---|
@@ -208,7 +208,7 @@ rather than "Let me check".
 
 ### 4.6 图 5｜重注入节奏
 
-![图5](../../charts/fig5-reinjection.svg)
+![图5](charts/fig5-reinjection.svg)
 
 | 策略 | 均 We 占比 |
 |---|---|
@@ -222,7 +222,7 @@ rather than "Let me check".
 
 ### 4.7 图 6｜已深陷 `Let me` 的长会话能否拉回
 
-![图6](../../charts/fig6-real-base.svg)
+![图6](charts/fig6-real-base.svg)
 
 底座是真实会话（562 个推理块，We 占比 0.005，100% Let me）。加锚点后：
 0.031 → 0.528（单条）→ 0.754（两条）。
@@ -231,7 +231,7 @@ rather than "Let me check".
 
 ### 4.8 图 7｜语域块长度（修正一个常见误解）
 
-![图7](../../charts/fig7-length.svg)
+![图7](charts/fig7-length.svg)
 
 | 块类型 | n | p25 | 中位 | p75 |
 |---|---|---|---|---|
@@ -244,7 +244,7 @@ rather than "Let me check".
 
 ### 4.9 图 8｜生产语料中的实际效果（自然观察，非随机对照）
 
-![图8](../../charts/fig8-production.svg)
+![图8](charts/fig8-production.svg)
 
 | 分组 | 会话数 | 推理块 | 「We need」开头率 | We 类词占比 |
 |---|---|---|---|---|

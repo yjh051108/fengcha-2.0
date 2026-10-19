@@ -12,14 +12,26 @@
 
 ## 30 秒版本
 
-```bash
-git clone https://github.com/yjh051108/fengcha-2.0
-cd fengcha-2.0/presets/we-need
-bash install.sh
-# 重启 DSH → 新开一个会话 → 在预设列表里选「风插标准」
+**在 DSH 里安装（推荐）：**
+
+插件管理 → 安装插件 → 填这个地址：
+
+```
+https://github.com/yjh051108/fengcha-2.0
 ```
 
-想撤销：`bash install.sh --uninstall`（或 `--revert-patch` 只回退配置）。
+装完**重启 DSH**，新开一个会话，在预设列表里选「**风插标准**」或「**风插 PTC**」。
+
+**手动安装（可选）：**
+
+```bash
+git clone https://github.com/yjh051108/fengcha-2.0
+cd ~/.dsh/profiles/desktop
+pnpm add /path/to/fengcha-2.0
+# 然后在 profile 的 package.json 里把 dsh-fengcha 加进 dsh.profile.bundles
+```
+
+**卸载：** 插件管理里点卸载，或在 profile 目录 `pnpm remove dsh-fengcha`。
 
 **只想要效果、不关心原理的人，看到这里就够了。**
 
@@ -90,7 +102,7 @@ bash install.sh
 | 什么都不放 | 0.02 |
 
 > 上一版只放结尾，是所有放法里**最差**的。这就是这次升级的原因。
-> 图见 [charts/fig2-snapshot-position.svg](charts/fig2-snapshot-position.svg)。
+> 图见 [charts/fig2-snapshot-position.svg](docs/charts/fig2-snapshot-position.svg)。
 
 ### 「说得有感染力」为什么不管用
 
@@ -106,7 +118,7 @@ bash install.sh
 | 什么都不写 | 0.02 |
 
 > **结论：模型听不懂「氛围」，只认「规定」。**
-> 图见 [charts/fig1-sentence-type.svg](charts/fig1-sentence-type.svg)。
+> 图见 [charts/fig1-sentence-type.svg](docs/charts/fig1-sentence-type.svg)。
 
 ### 改系统提示词有用吗？没有
 
@@ -117,7 +129,7 @@ bash install.sh
 唯一有用的是在这个「环境说明」里塞那句话（0.88）。
 
 > **结论：说什么不重要，在哪说才重要。**
-> 图见 [charts/fig3-system-prompt.svg](charts/fig3-system-prompt.svg)。
+> 图见 [charts/fig3-system-prompt.svg](docs/charts/fig3-system-prompt.svg)。
 
 ---
 
@@ -134,7 +146,7 @@ bash install.sh
 
 3. **我们标了边界。** 比如「位置实验每组只有 10 个样本，
    方向可信但精确数字不可外推」这种话，写在
-   [presets/we-need/README.md](presets/we-need/README.md) 里，没有藏起来。
+   [docs/TECHNICAL.md](docs/TECHNICAL.md) 里，没有藏起来。
 
 ---
 
@@ -166,11 +178,19 @@ bash install.sh
 ## 仓库里有什么
 
 ```
-├── presets/we-need/    预设本体 + 安装脚本 + 详细技术文档
-├── charts/             8 张实验图（SVG 可缩放，PNG 可直接看）
-├── experiments/        50+ 个可复跑的实验脚本
-├── data/               脱敏后的实验数据（只有数字，没有对话内容）
-└── scripts/            发布工具：密钥清洗 / 隐私扫描 / 图表生成 / 仓库轮询
+├── lib/index.js        插件本体（那句话说两遍的实现）
+├── cordis.patch.yml    两个预设的定义
+├── package.json        DSH 靠这个文件认出「这是一个插件」
+├── docs/
+│   ├── TECHNICAL.md    详细技术文档（方法学、机制澄清、待补充项）
+│   └── charts/         8 张实验图（SVG 可缩放，PNG 可直接看）
+├── archive/            回退用的旧版配置
+├── research/
+│   ├── experiments/    50+ 个可复跑的实验脚本
+│   ├── data/           脱敏后的实验数据（只有数字，没有对话内容）
+│   └── scripts/        发布工具：密钥清洗 / 隐私扫描 / 图表生成 / 仓库轮询
+├── check-yaml.mjs      自检脚本（验证这个包能被 DSH 装）
+└── build-presets.mjs   从 DSH 配置重新生成预设
 ```
 
 ---
@@ -187,7 +207,7 @@ bash install.sh
    281 个不带），差异明显，但这**不是随机对照**，无法排除其他因素。
 5. **完全没测能力。** 正确率、代码质量、延迟、费用——一个都没测。
 
-完整方法学见 [presets/we-need/README.md](presets/we-need/README.md)。
+完整方法学见 [docs/TECHNICAL.md](docs/TECHNICAL.md)。
 
 ---
 
@@ -197,28 +217,28 @@ bash install.sh
 
 ```bash
 # 重新生成预设（DSH 升级后用）
-cd presets/we-need && node build-presets.mjs
+node build-presets.mjs
 
 # 重新生成图表
-node scripts/make-charts.mjs
+node research/scripts/make-charts.mjs
 
 # 复跑某个实验（需要 d1 中转的 key）
 export D1_API_KEY=你的key
-node experiments/snapshot-position.mjs
+node research/experiments/snapshot-position.mjs
 ```
 
 ### 仓库轮询（每小时检查新 issue / PR）
 
 ```bash
-node scripts/watch-repo.mjs                    # 查一次
-node scripts/watch-repo.mjs --json             # 机器可读
-node scripts/watch-loop.mjs --interval 3600    # 常驻，每小时查一次
+node research/scripts/watch-repo.mjs            # 查一次
+node research/scripts/watch-repo.mjs --json     # 机器可读
+node research/scripts/watch-loop.mjs --interval 3600  # 常驻
 ```
 
 ### 密钥说明
 
 所有脚本从环境变量读 `D1_API_KEY`，**仓库里没有任何硬编码密钥**。
-可用 `node scripts/clean-secrets.mjs . --verify` 自行验证。
+可用 `node research/scripts/clean-secrets.mjs . --verify` 自行验证。
 
 ---
 
@@ -239,9 +259,10 @@ reasoning style (3% → 81% "we"-style).
 
 **Install:**
 
-```bash
-cd presets/we-need && bash install.sh
-# restart DSH, open a new session, pick "风插标准"
+Install via the DSH plugin manager with this repository URL:
+
+```
+https://github.com/yjh051108/fengcha-2.0
 ```
 
 **Why it's not a prompt trick:** we ran controlled ablations. Identity-narrative
