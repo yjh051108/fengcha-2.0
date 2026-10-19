@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="338" viewBox="0 0 720 338" role="img" aria-labelledby="t5">
+  <rect width="720" height="338" fill="#fff"/>
+  <text id="t5" x="20" y="32" font-size="17" font-weight="700" fill="#111">图 5｜锚点重注入节奏（多轮 6 轮会话）</text>
+  <text x="20" y="54" font-size="12.5" fill="#666">真实 wire · effort=max · 每策略 n=4–5 个检查点</text>
+  <line x1="190" y1="72" x2="190" y2="282" stroke="#e3e6ea"/>
+  
+    <text x="180" y="95" text-anchor="end" font-size="13" fill="#222">每轮都注入（现状）</text>
+    <rect x="190" y="83" width="354.64000000000004" height="22" rx="3" fill="#16a34a" opacity="0.9"/>
+    <text x="552.6400000000001" y="98" font-size="13" fill="#333" font-weight="600">0.806</text>
+    <text x="180" y="129" text-anchor="end" font-size="13" fill="#222">首轮 + 每隔 2 轮</text>
+    <rect x="190" y="117" width="376.64" height="22" rx="3" fill="#2f6fed" opacity="0.9"/>
+    <text x="574.64" y="132" font-size="13" fill="#333" font-weight="600">0.856</text>
+    <text x="180" y="163" text-anchor="end" font-size="13" fill="#222">首轮 + 最后一轮</text>
+    <rect x="190" y="151" width="301.84000000000003" height="22" rx="3" fill="#2f6fed" opacity="0.45"/>
+    <text x="499.84000000000003" y="166" font-size="13" fill="#333" font-weight="600">0.686</text>
+    <text x="180" y="197" text-anchor="end" font-size="13" fill="#222">每隔 2 轮</text>
+    <rect x="190" y="185" width="267.96" height="22" rx="3" fill="#e8730c" opacity="0.9"/>
+    <text x="465.96" y="200" font-size="13" fill="#333" font-weight="600">0.609</text>
+    <text x="180" y="231" text-anchor="end" font-size="13" fill="#222">只第一轮</text>
+    <rect x="190" y="219" width="202.84" height="22" rx="3" fill="#dc2626" opacity="0.9"/>
+    <text x="400.84000000000003" y="234" font-size="13" fill="#333" font-weight="600">0.461</text>
+    <text x="180" y="265" text-anchor="end" font-size="13" fill="#222">完全不注入</text>
+    <rect x="190" y="253" width="5.72" height="22" rx="3" fill="#9aa1ab" opacity="0.9"/>
+    <text x="203.72" y="268" font-size="13" fill="#333" font-weight="600">0.013</text>
+  <text x="20" y="316" font-size="11.5" fill="#888">结论：每轮注入显著优于只注入一次；当前架构天然每步重算快照，无需额外机制。</text>
+</svg>

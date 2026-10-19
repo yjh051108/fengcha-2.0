@@ -1,0 +1,986 @@
+[
+ {
+  "taskId": "long_state",
+  "variant": "bare",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 384,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 65,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 83,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 167,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 123,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 133,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 311,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 153,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 270,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 29,
+    "reasoningLen": 138,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 28,
+    "reasoningLen": 138,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 32,
+    "reasoningLen": 252,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_dedup",
+  "variant": "bare",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 3,
+    "reasoningLen": 275,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 7,
+    "reasoningLen": 138,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 175,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 149,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 441,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 162,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 129,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 203,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 145,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 190,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 168,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 355,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_calc",
+  "variant": "bare",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 130,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 177,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 170,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 131,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 256,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 174,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 136,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 123,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 117,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 131,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 143,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 183,
+    "finish": "stop"
+   },
+   {
+    "step": 13,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 126,
+    "finish": "stop"
+   },
+   {
+    "step": 14,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 420,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_state",
+  "variant": "eng",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 195,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 85,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 99,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 170,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 142,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 109,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 129,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 118,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 141,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 29,
+    "reasoningLen": 145,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 28,
+    "reasoningLen": 197,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 32,
+    "reasoningLen": 174,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_dedup",
+  "variant": "eng",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 3,
+    "reasoningLen": 111,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 7,
+    "reasoningLen": 96,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 110,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 134,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 1016,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 429,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 158,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 178,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 148,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 358,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 287,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 222,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_calc",
+  "variant": "eng",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 106,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 127,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 171,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 105,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 183,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 112,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 126,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 268,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 110,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 162,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 133,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 105,
+    "finish": "stop"
+   },
+   {
+    "step": 13,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 159,
+    "finish": "stop"
+   },
+   {
+    "step": 14,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 123,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_state",
+  "variant": "restate",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 256,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 70,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 102,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 137,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 161,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 81,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 156,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 78,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 135,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 29,
+    "reasoningLen": 11,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 28,
+    "reasoningLen": 20,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 32,
+    "reasoningLen": 165,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_dedup",
+  "variant": "restate",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 3,
+    "reasoningLen": 115,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 7,
+    "reasoningLen": 619,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 85,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 89,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 154,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 175,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 117,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 193,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 228,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 129,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_calc",
+  "variant": "restate",
+  "model": "deepseek-v4.1-flash",
+  "effort": "low",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 117,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 236,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 742,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 130,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 98,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 223,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 105,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 132,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 100,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 87,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 110,
+    "finish": "stop"
+   },
+   {
+    "step": 13,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 104,
+    "finish": "stop"
+   },
+   {
+    "step": 14,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 117,
+    "finish": "stop"
+   }
+  ]
+ }
+]

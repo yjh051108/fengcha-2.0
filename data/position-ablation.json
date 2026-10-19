@@ -1,0 +1,1726 @@
+[
+ {
+  "pos": "P0_sys_tail",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "reasonCol": 8,
+  "reasonInd": 9,
+  "reasonRatio": 0.47058823529411764,
+  "reasonLen": 4886,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.3333333333333333,
+   "b2": 0.25,
+   "b3": 0.6
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "reasonCol": 3,
+  "reasonInd": 9,
+  "reasonRatio": 0.25,
+  "reasonLen": 2599,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0.2857142857142857
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "用 Python 写一个函数，判",
+  "rep": 2,
+  "reasonCol": 5,
+  "reasonInd": 64,
+  "reasonRatio": 0.07246376811594203,
+  "reasonLen": 14508,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0.03571428571428571,
+   "b3": 0.07142857142857142
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "reasonCol": 3,
+  "reasonInd": 22,
+  "reasonRatio": 0.12,
+  "reasonLen": 6294,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0.14285714285714285,
+   "b3": 0.09523809523809523
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "reasonCol": 10,
+  "reasonInd": 8,
+  "reasonRatio": 0.5555555555555556,
+  "reasonLen": 2882,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 0.3611111111111111
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 2,
+  "reasonCol": 12,
+  "reasonInd": 15,
+  "reasonRatio": 0.4444444444444444,
+  "reasonLen": 6885,
+  "contentLen": 827,
+  "prof": {
+   "b1": 0.75,
+   "b2": 0.5,
+   "b3": 0.16666666666666666
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "reasonCol": 11,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 1011,
+  "contentLen": 157,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "reasonCol": 5,
+  "reasonInd": 18,
+  "reasonRatio": 0.21739130434782608,
+  "reasonLen": 8357,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.375,
+   "b2": 0.18181818181818182,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 2,
+  "reasonCol": 36,
+  "reasonInd": 2,
+  "reasonRatio": 0.9473684210526315,
+  "reasonLen": 9873,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8333333333333334,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "reasonCol": 54,
+  "reasonInd": 8,
+  "reasonRatio": 0.8709677419354839,
+  "reasonLen": 14508,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.8730158730158731,
+   "b2": 0.9375,
+   "b3": 0.9090909090909091
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "reasonCol": 1,
+  "reasonInd": 34,
+  "reasonRatio": 0.02857142857142857,
+  "reasonLen": 7779,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 2,
+  "reasonCol": 30,
+  "reasonInd": 8,
+  "reasonRatio": 0.7894736842105263,
+  "reasonLen": 14479,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.7,
+   "b2": 0.875,
+   "b3": 0.75
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "reasonCol": 2,
+  "reasonInd": 14,
+  "reasonRatio": 0.125,
+  "reasonLen": 3077,
+  "contentLen": 698,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "reasonCol": 1,
+  "reasonInd": 20,
+  "reasonRatio": 0.047619047619047616,
+  "reasonLen": 5264,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "用 Python 写一个函数，把",
+  "rep": 2,
+  "reasonCol": 6,
+  "reasonInd": 12,
+  "reasonRatio": 0.3333333333333333,
+  "reasonLen": 4252,
+  "contentLen": 1093,
+  "prof": {
+   "b1": 0.5833333333333334,
+   "b2": 0.4,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "reasonCol": 36,
+  "reasonInd": 1,
+  "reasonRatio": 0.972972972972973,
+  "reasonLen": 14654,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.9333333333333333,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "reasonCol": 6,
+  "reasonInd": 17,
+  "reasonRatio": 0.2608695652173913,
+  "reasonLen": 13320,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.5,
+   "b2": 0.2,
+   "b3": 0.25
+  },
+  "error": null
+ },
+ {
+  "pos": "P0_sys_tail",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 2,
+  "reasonCol": 16,
+  "reasonInd": 15,
+  "reasonRatio": 0.5161290322580645,
+  "reasonLen": 14412,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.3333333333333333,
+   "b2": 0.4375,
+   "b3": 0.7142857142857143
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "reasonCol": 15,
+  "reasonInd": 2,
+  "reasonRatio": 0.8823529411764706,
+  "reasonLen": 3980,
+  "contentLen": 1023,
+  "prof": {
+   "b1": 1,
+   "b2": 0.75,
+   "b3": 0.8
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "reasonCol": 24,
+  "reasonInd": 3,
+  "reasonRatio": 0.8888888888888888,
+  "reasonLen": 6777,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.7142857142857143,
+   "b3": 0.9
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "用 Python 写一个函数，判",
+  "rep": 2,
+  "reasonCol": 30,
+  "reasonInd": 12,
+  "reasonRatio": 0.7142857142857143,
+  "reasonLen": 11469,
+  "contentLen": 896,
+  "prof": {
+   "b1": 0.7333333333333333,
+   "b2": 0.8571428571428571,
+   "b3": 0.4
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "reasonCol": 22,
+  "reasonInd": 1,
+  "reasonRatio": 0.9565217391304348,
+  "reasonLen": 3607,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "reasonCol": 47,
+  "reasonInd": 42,
+  "reasonRatio": 0.5280898876404494,
+  "reasonLen": 12939,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.7857142857142857,
+   "b2": 0.38095238095238093,
+   "b3": 0.4505208333333333
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 2,
+  "reasonCol": 37,
+  "reasonInd": 7,
+  "reasonRatio": 0.8409090909090909,
+  "reasonLen": 13266,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.9777777777777777,
+   "b2": 0.8333333333333334,
+   "b3": 0.7142857142857143
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "reasonCol": 22,
+  "reasonInd": 2,
+  "reasonRatio": 0.9166666666666666,
+  "reasonLen": 11995,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.9090909090909091,
+   "b2": 0.875,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "reasonCol": 19,
+  "reasonInd": 1,
+  "reasonRatio": 0.95,
+  "reasonLen": 12581,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.9090909090909091,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 2,
+  "reasonCol": 23,
+  "reasonInd": 7,
+  "reasonRatio": 0.7666666666666667,
+  "reasonLen": 4413,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.825,
+   "b2": 1,
+   "b3": 0.7857142857142857
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "reasonCol": 32,
+  "reasonInd": 12,
+  "reasonRatio": 0.7272727272727273,
+  "reasonLen": 14434,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.7083333333333334,
+   "b2": 1,
+   "b3": 0.5535714285714286
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "reasonCol": 47,
+  "reasonInd": 9,
+  "reasonRatio": 0.8392857142857143,
+  "reasonLen": 11352,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.6666666666666666,
+   "b3": 0.7777777777777778
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 2,
+  "reasonCol": 7,
+  "reasonInd": 32,
+  "reasonRatio": 0.1794871794871795,
+  "reasonLen": 12835,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.5,
+   "b2": 0.13333333333333333,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "reasonCol": 10,
+  "reasonInd": 14,
+  "reasonRatio": 0.4166666666666667,
+  "reasonLen": 3072,
+  "contentLen": 768,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 0.375,
+   "b3": 0.14285714285714285
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "reasonCol": 17,
+  "reasonInd": 19,
+  "reasonRatio": 0.4722222222222222,
+  "reasonLen": 8712,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.8571428571428571,
+   "b2": 0.46153846153846156,
+   "b3": 0.26666666666666666
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "用 Python 写一个函数，把",
+  "rep": 2,
+  "reasonCol": 4,
+  "reasonInd": 11,
+  "reasonRatio": 0.26666666666666666,
+  "reasonLen": 3500,
+  "contentLen": 766,
+  "prof": {
+   "b1": 0.3333333333333333,
+   "b2": 0.3333333333333333,
+   "b3": 0.25
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "reasonCol": 32,
+  "reasonInd": 27,
+  "reasonRatio": 0.5423728813559322,
+  "reasonLen": 14922,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.6481481481481483,
+   "b2": 0.3,
+   "b3": 0.625
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "reasonCol": 30,
+  "reasonInd": 1,
+  "reasonRatio": 0.967741935483871,
+  "reasonLen": 15025,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8888888888888888,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P1_before_user",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 2,
+  "reasonCol": 7,
+  "reasonInd": 4,
+  "reasonRatio": 0.6363636363636364,
+  "reasonLen": 13298,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.6,
+   "b2": 0.8,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "reasonCol": 17,
+  "reasonInd": 5,
+  "reasonRatio": 0.7727272727272727,
+  "reasonLen": 5645,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.5,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "reasonCol": 40,
+  "reasonInd": 7,
+  "reasonRatio": 0.851063829787234,
+  "reasonLen": 13165,
+  "contentLen": 723,
+  "prof": {
+   "b1": 0.9166666666666666,
+   "b2": 0.8666666666666667,
+   "b3": 0.7727272727272727
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "用 Python 写一个函数，判",
+  "rep": 2,
+  "reasonCol": 2,
+  "reasonInd": 3,
+  "reasonRatio": 0.4,
+  "reasonLen": 2136,
+  "contentLen": 627,
+  "prof": {
+   "b1": 1,
+   "b2": 0.3333333333333333,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "reasonCol": 39,
+  "reasonInd": 3,
+  "reasonRatio": 0.9285714285714286,
+  "reasonLen": 9372,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.75,
+   "b3": 0.9411764705882353
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "reasonCol": 33,
+  "reasonInd": 8,
+  "reasonRatio": 0.8048780487804879,
+  "reasonLen": 9220,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.6666666666666666,
+   "b3": 0.7777777777777778
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 2,
+  "reasonCol": 15,
+  "reasonInd": 30,
+  "reasonRatio": 0.3333333333333333,
+  "reasonLen": 11080,
+  "contentLen": 636,
+  "prof": {
+   "b1": 0.46153846153846156,
+   "b2": 0.28703703703703703,
+   "b3": 0.125
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "reasonCol": 19,
+  "reasonInd": 7,
+  "reasonRatio": 0.7307692307692307,
+  "reasonLen": 14397,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.5,
+   "b3": 0.4
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "reasonCol": 4,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 226,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 2,
+  "reasonCol": 8,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 753,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "reasonCol": 25,
+  "reasonInd": 3,
+  "reasonRatio": 0.8928571428571429,
+  "reasonLen": 8355,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.8571428571428571,
+   "b2": 1,
+   "b3": 0.8666666666666667
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "reasonCol": 0,
+  "reasonInd": 0,
+  "reasonRatio": null,
+  "reasonLen": 0,
+  "contentLen": 0,
+  "prof": null,
+  "error": "TypeError: fetch failed"
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 2,
+  "reasonCol": 16,
+  "reasonInd": 6,
+  "reasonRatio": 0.7272727272727273,
+  "reasonLen": 8907,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.5555555555555556,
+   "b3": 0.6666666666666666
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "reasonCol": 29,
+  "reasonInd": 9,
+  "reasonRatio": 0.7631578947368421,
+  "reasonLen": 13794,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.75,
+   "b2": 0.8181818181818182,
+   "b3": 0.7272727272727273
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "reasonCol": 12,
+  "reasonInd": 3,
+  "reasonRatio": 0.8,
+  "reasonLen": 3710,
+  "contentLen": 729,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8,
+   "b3": 0.5
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "用 Python 写一个函数，把",
+  "rep": 2,
+  "reasonCol": 20,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 4273,
+  "contentLen": 722,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "reasonCol": 4,
+  "reasonInd": 10,
+  "reasonRatio": 0.2857142857142857,
+  "reasonLen": 13968,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0.25,
+   "b3": 0.3333333333333333
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "reasonCol": 31,
+  "reasonInd": 10,
+  "reasonRatio": 0.7560975609756098,
+  "reasonLen": 13738,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.8235294117647058,
+   "b2": 0.6666666666666666,
+   "b3": 0.7
+  },
+  "error": null
+ },
+ {
+  "pos": "P2_after_user",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 2,
+  "reasonCol": 28,
+  "reasonInd": 39,
+  "reasonRatio": 0.417910447761194,
+  "reasonLen": 14378,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.49074074074074076,
+   "b2": 0.5,
+   "b3": 0.07142857142857142
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "reasonCol": 7,
+  "reasonInd": 1,
+  "reasonRatio": 0.875,
+  "reasonLen": 4177,
+  "contentLen": 711,
+  "prof": {
+   "b1": 1,
+   "b2": 0.6666666666666666,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "reasonCol": 13,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 2935,
+  "contentLen": 683,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "用 Python 写一个函数，判",
+  "rep": 2,
+  "reasonCol": 15,
+  "reasonInd": 11,
+  "reasonRatio": 0.5769230769230769,
+  "reasonLen": 6957,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 0.8,
+   "b3": 0.25
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "reasonCol": 25,
+  "reasonInd": 1,
+  "reasonRatio": 0.9615384615384616,
+  "reasonLen": 6047,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "reasonCol": 44,
+  "reasonInd": 5,
+  "reasonRatio": 0.8979591836734694,
+  "reasonLen": 13441,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.9166666666666666,
+   "b3": 0.8421052631578947
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 2,
+  "reasonCol": 18,
+  "reasonInd": 2,
+  "reasonRatio": 0.9,
+  "reasonLen": 4425,
+  "contentLen": 666,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.6666666666666666
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "reasonCol": 6,
+  "reasonInd": 1,
+  "reasonRatio": 0.8571428571428571,
+  "reasonLen": 882,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.5
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "reasonCol": 5,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 512,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 2,
+  "reasonCol": 39,
+  "reasonInd": 4,
+  "reasonRatio": 0.9069767441860465,
+  "reasonLen": 13892,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.8947368421052632,
+   "b2": 0.8888888888888888,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "reasonCol": 17,
+  "reasonInd": 1,
+  "reasonRatio": 0.9444444444444444,
+  "reasonLen": 4306,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "reasonCol": 15,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 6675,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 2,
+  "reasonCol": 4,
+  "reasonInd": 11,
+  "reasonRatio": 0.26666666666666666,
+  "reasonLen": 5222,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 0,
+   "b3": 0.18181818181818182
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "reasonCol": 2,
+  "reasonInd": 2,
+  "reasonRatio": 0.5,
+  "reasonLen": 3594,
+  "contentLen": 964,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "reasonCol": 12,
+  "reasonInd": 5,
+  "reasonRatio": 0.7058823529411765,
+  "reasonLen": 4855,
+  "contentLen": 1027,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 1,
+   "b3": 0.5
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "用 Python 写一个函数，把",
+  "rep": 2,
+  "reasonCol": 18,
+  "reasonInd": 7,
+  "reasonRatio": 0.72,
+  "reasonLen": 5994,
+  "contentLen": 63,
+  "prof": {
+   "b1": 0.625,
+   "b2": 0.5714285714285714,
+   "b3": 0.8333333333333334
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "reasonCol": 23,
+  "reasonInd": 3,
+  "reasonRatio": 0.8846153846153846,
+  "reasonLen": 15149,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.8333333333333334,
+   "b2": 1,
+   "b3": 0.9090909090909091
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "reasonCol": 45,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 15005,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3_inside_user_tail",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 2,
+  "reasonCol": 22,
+  "reasonInd": 2,
+  "reasonRatio": 0.9166666666666666,
+  "reasonLen": 4626,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8571428571428571,
+   "b3": 0.8888888888888888
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "reasonCol": 7,
+  "reasonInd": 2,
+  "reasonRatio": 0.7777777777777778,
+  "reasonLen": 2203,
+  "contentLen": 713,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.5
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "reasonCol": 3,
+  "reasonInd": 20,
+  "reasonRatio": 0.13043478260869565,
+  "reasonLen": 5186,
+  "contentLen": 728,
+  "prof": {
+   "b1": 0.2857142857142857,
+   "b2": 0,
+   "b3": 0.125
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "用 Python 写一个函数，判",
+  "rep": 2,
+  "reasonCol": 6,
+  "reasonInd": 3,
+  "reasonRatio": 0.6666666666666666,
+  "reasonLen": 1679,
+  "contentLen": 803,
+  "prof": {
+   "b1": 0.75,
+   "b2": 0.5,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "reasonCol": 26,
+  "reasonInd": 5,
+  "reasonRatio": 0.8387096774193549,
+  "reasonLen": 4467,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8571428571428571,
+   "b3": 0.5
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "reasonCol": 27,
+  "reasonInd": 23,
+  "reasonRatio": 0.54,
+  "reasonLen": 13582,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.7647058823529411,
+   "b2": 0.5555555555555556,
+   "b3": 0.15384615384615385
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 2,
+  "reasonCol": 12,
+  "reasonInd": 10,
+  "reasonRatio": 0.5454545454545454,
+  "reasonLen": 4517,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 0,
+   "b3": 0.5714285714285714
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "reasonCol": 21,
+  "reasonInd": 4,
+  "reasonRatio": 0.84,
+  "reasonLen": 16800,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8333333333333334,
+   "b3": 0.5
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "reasonCol": 36,
+  "reasonInd": 2,
+  "reasonRatio": 0.9473684210526315,
+  "reasonLen": 14800,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8666666666666667,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 2,
+  "reasonCol": 40,
+  "reasonInd": 3,
+  "reasonRatio": 0.9302325581395349,
+  "reasonLen": 6544,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.9761904761904762,
+   "b2": 1,
+   "b3": 0.9285714285714286
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "reasonCol": 33,
+  "reasonInd": 11,
+  "reasonRatio": 0.75,
+  "reasonLen": 14342,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.5833333333333334,
+   "b2": 1,
+   "b3": 0.5
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "reasonCol": 26,
+  "reasonInd": 18,
+  "reasonRatio": 0.5909090909090909,
+  "reasonLen": 14716,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 0.6666666666666666,
+   "b3": 0.5083333333333333
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 2,
+  "reasonCol": 38,
+  "reasonInd": 11,
+  "reasonRatio": 0.7755102040816326,
+  "reasonLen": 13982,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.9166666666666666,
+   "b2": 0.6666666666666666,
+   "b3": 0.6666666666666666
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "reasonCol": 7,
+  "reasonInd": 26,
+  "reasonRatio": 0.21212121212121213,
+  "reasonLen": 9858,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.2857142857142857,
+   "b2": 0,
+   "b3": 0.26666666666666666
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "reasonCol": 2,
+  "reasonInd": 11,
+  "reasonRatio": 0.15384615384615385,
+  "reasonLen": 4315,
+  "contentLen": 988,
+  "prof": {
+   "b1": 0.6666666666666666,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "用 Python 写一个函数，把",
+  "rep": 2,
+  "reasonCol": 7,
+  "reasonInd": 21,
+  "reasonRatio": 0.25,
+  "reasonLen": 8001,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.625,
+   "b2": 0,
+   "b3": 0.1111111111111111
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "reasonCol": 13,
+  "reasonInd": 9,
+  "reasonRatio": 0.5909090909090909,
+  "reasonLen": 13573,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0.6785714285714286,
+   "b3": 0.25
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "reasonCol": 26,
+  "reasonInd": 6,
+  "reasonRatio": 0.8125,
+  "reasonLen": 10741,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8333333333333334,
+   "b3": 0.6
+  },
+  "error": null
+ },
+ {
+  "pos": "P3b_inside_user_head",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 2,
+  "reasonCol": 12,
+  "reasonInd": 0,
+  "reasonRatio": 1,
+  "reasonLen": 15243,
+  "contentLen": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "reasonCol": 0,
+  "reasonInd": 12,
+  "reasonRatio": 0,
+  "reasonLen": 3882,
+  "contentLen": 717,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "reasonCol": 0,
+  "reasonInd": 30,
+  "reasonRatio": 0,
+  "reasonLen": 8150,
+  "contentLen": 672,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "用 Python 写一个函数，判",
+  "rep": 2,
+  "reasonCol": 0,
+  "reasonInd": 6,
+  "reasonRatio": 0,
+  "reasonLen": 2421,
+  "contentLen": 926,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "reasonCol": 0,
+  "reasonInd": 18,
+  "reasonRatio": 0,
+  "reasonLen": 3680,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "reasonCol": 0,
+  "reasonInd": 10,
+  "reasonRatio": 0,
+  "reasonLen": 2944,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 2,
+  "reasonCol": 0,
+  "reasonInd": 35,
+  "reasonRatio": 0,
+  "reasonLen": 10213,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "reasonCol": 0,
+  "reasonInd": 6,
+  "reasonRatio": 0,
+  "reasonLen": 622,
+  "contentLen": 0,
+  "prof": {
+   "b1": null,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "reasonCol": 0,
+  "reasonInd": 25,
+  "reasonRatio": 0,
+  "reasonLen": 4686,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 2,
+  "reasonCol": 0,
+  "reasonInd": 10,
+  "reasonRatio": 0,
+  "reasonLen": 2364,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "reasonCol": 0,
+  "reasonInd": 29,
+  "reasonRatio": 0,
+  "reasonLen": 14562,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "reasonCol": 0,
+  "reasonInd": 19,
+  "reasonRatio": 0,
+  "reasonLen": 4204,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 2,
+  "reasonCol": 1,
+  "reasonInd": 30,
+  "reasonRatio": 0.03225806451612903,
+  "reasonLen": 14165,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0.09090909090909091,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "reasonCol": 0,
+  "reasonInd": 7,
+  "reasonRatio": 0,
+  "reasonLen": 1861,
+  "contentLen": 949,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "reasonCol": 2,
+  "reasonInd": 63,
+  "reasonRatio": 0.03076923076923077,
+  "reasonLen": 15876,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0.045454545454545456
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "用 Python 写一个函数，把",
+  "rep": 2,
+  "reasonCol": 0,
+  "reasonInd": 2,
+  "reasonRatio": 0,
+  "reasonLen": 1508,
+  "contentLen": 849,
+  "prof": {
+   "b1": 0,
+   "b2": null,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "reasonCol": 0,
+  "reasonInd": 30,
+  "reasonRatio": 0,
+  "reasonLen": 13383,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "reasonCol": 2,
+  "reasonInd": 44,
+  "reasonRatio": 0.043478260869565216,
+  "reasonLen": 15065,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0.09090909090909091,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ },
+ {
+  "pos": "P4_none",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 2,
+  "reasonCol": 0,
+  "reasonInd": 41,
+  "reasonRatio": 0,
+  "reasonLen": 14552,
+  "contentLen": 0,
+  "prof": {
+   "b1": 0,
+   "b2": 0,
+   "b3": 0
+  },
+  "error": null
+ }
+]

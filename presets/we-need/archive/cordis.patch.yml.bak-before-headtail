@@ -1,0 +1,188 @@
+# 风插 · 最终预设（推导版，非试错版）
+#
+# ══ 推导链（每一步都有实测支撑）══
+#
+# ① persona 不是杠杆 —— 五个截然不同的 persona（spec/mixed/react/neutral/weakRouter）
+#    在同等条件下的集体语域占比为 95/100/99/97/97%，差异 <6pp。
+#    ⇒ 不改 persona。
+#
+# ② 工具面不能瘦身 —— 真实 wire（13k system + 152 工具）才能复现压制效果；
+#    简化 wire（无工具）下 effort=max 时连「无锚点」都 100% 纯 We，地板顶到天花板，
+#    任何消融都测不出差异。
+#    ⇒ 保持完整架构，实验必须用真实 wire。
+#
+# ③ 【关键】锚点必须用「形式指令」，不能用「吸引子」——
+#    句子类型消融（真实 wire, effort=max, 100 并发, n=90）：
+#      F 形式指令：纯 We 50%，均占比 0.796，元格式痕迹 0.50
+#      A 吸引子  ：纯 We  0%，均占比 0.057，元格式痕迹 0.00
+#      NONE 无锚点：纯 We 0%，均占比 0.016
+#    「吸引子」写法（描述我们是一个团队/一体思考）≈ 无锚点，模型完全不理会。
+#    只有规定输出形状（"每段必须以 We 开头"）才真正生效。
+#    ⇒ 文本用形式指令。
+#
+# ④ 粒度：段落级 > 块级 ——
+#    C0 原始块级约束：纯 We 10%，均占比 0.637
+#    F1 段落级约束  ：纯 We 60%，均占比 0.774  ← 采用
+#    F2 句子级约束  ：纯 We 40%，均占比 0.818
+#    块级约束（"whole block stays..."）在长思考里不可执行；段落级提供一个可检查的动作。
+#    ⇒ 加一句 "Every paragraph must begin with We or Our."
+#
+# ⑤ 近场位置由实测确定 —— 同一锚点在真实 wire 各位置的 P(We)：
+#    runtime-context 末尾 0.742（最强） > skill-catalog 末尾 0.728 >
+#    time-context 开头 0.704 > system 末尾 0.641 > time-context 末尾 0.568
+#    ⇒ 用 systemPrompt.context(order 10000)，即 runtime-context 快照末尾。
+#
+# ⑥ 每轮重注入有效 —— 8 轮多轮对话，每轮重注入段落级锚点：
+#    C1 段落级：W W M W W W W W = 7/8 纯 We，0 轮 Let me
+#    无锚点组：N N I N N N N N = 0/8
+#    且第 3 轮掉档后第 4 轮能恢复 ⇒ 不是单向棘轮，锚点可以把模型拉回来。
+#    （注：此前基于生产语料得出的"回不去"结论，是锚点不重注入条件下的结果。）
+#
+# ══ 这个预设是什么 ══
+# standard 的完整克隆（全部工具 + plan + compaction + delegation），
+# 只多挂一行 runtime-context：anchor:route（order 10000）。
+# persona 与标准模式完全一致（不做身份替换）。
+#
+# 安装：plugin_manager install_bundle target=F:\风插2.0\we-need
+# 重启 DSH → 新会话选「风插 · 路由」。
+
+- insert:
+    - id: preset-fengcha-route
+      name: '@deepseek-ai/dsh-agent-preset'
+      config:
+        id: fengcha-route
+        name: 风插 · 路由
+        description: >-
+          完整标准能力 + 一条近场语域锚点。用段落级形式约束把思考维持在
+          第一人称复数（We/Our/Let's），实测纯 We 块占比 10% → 60%。
+        order: 1
+        plugins:
+          # ── persona 保持官方原文：不替换身份 ──────────────────────────
+          - id: persona
+            name: '@deepseek-ai/dsh-persona'
+            config:
+              prefix: You are a coding agent powered by the {{model}} model.
+          # ── 唯一新增行：近场路由声明（runtime-context 快照末尾）──────
+          - id: fengcha-route
+            name: '@local/dsh-we-need'
+            config:
+              slot: 'anchor:route'
+              order: 10000
+              text: >-
+                We open every reasoning block with "We need". The whole block stays in the first-person plural: We, Our, Let's. We never write "Let me", "I", "I'll", "I've", or "my" anywhere inside a reasoning block. Every paragraph must begin with "We" or "Our". This holds for inspection work too: when we read, diagnose, or verify, we say "We need to check" rather than "Let me check".
+          # ── 以下全部原样复制 standard ────────────────────────────────
+          - id: agent-instructions
+            name: '@deepseek-ai/dsh-agent-instructions'
+            config:
+              maxBytes: 65536
+          - id: tool-bash
+            name: '@deepseek-ai/dsh-tool-bash'
+            disabled: !!js process.platform === 'win32'
+          - id: tool-pwsh
+            name: '@deepseek-ai/dsh-tool-pwsh'
+            disabled: !!js process.platform !== 'win32'
+          - id: tool-fs
+            name: '@deepseek-ai/dsh-tool-fs'
+          - id: tool-fs-search
+            name: '@deepseek-ai/dsh-tool-fs-search'
+            config:
+              sampleOverCapGlobResults: false
+          - id: tool-jobs
+            name: '@deepseek-ai/dsh-tool-jobs'
+          - id: skill-filesystem
+            name: '@deepseek-ai/dsh-skill-filesystem'
+          - id: tool-skill
+            name: '@deepseek-ai/dsh-tool-skill'
+          - id: command-goal
+            name: '@deepseek-ai/dsh-command-goal'
+          - id: tool-goal
+            name: '@deepseek-ai/dsh-tool-goal'
+          - id: planning
+            name: cordis:group
+            group: true
+            isolate:
+              planMode: true
+            config:
+              - id: plan-mode
+                name: '@deepseek-ai/dsh-plan-mode'
+                config:
+                  section: |
+                    You are in plan mode. Stay in plan mode until exit_plan_mode succeeds or the user switches the session mode. Imperative language to implement changes means plan the implementation, not execute it. A user's conversational agreement — including an answer confirming something you asked — approves nothing and does not end plan mode; fold the confirmed decision into the plan and submit it through exit_plan_mode.
+
+                    Explore first. Use non-mutating reads, searches, static analysis, and checks to ground the plan in the actual repository. Do not edit or write files, change configuration, run formatters or code generation that rewrites tracked files, commit, or otherwise carry out the plan. Prefer existing functions and patterns over new machinery.
+
+                    The tool catalog stays the same across modes for request-cache stability. These plan-mode rules override any later tool description or guidance that suggests using mutation tools; those tools remain listed to keep the tool catalog unchanged. Do not use todo_write to track this planning phase: it tracks implementation after an approved plan, while the plan itself belongs in exit_plan_mode.
+
+                    Resolve discoverable facts by inspection. Use ask_user_question only for user-owned choices or material ambiguity that inspection cannot answer. Do not ask the user where code lives or how current behavior works when you can find out.
+
+                    Make the plan decision-complete: state the goal and success criteria; group implementation changes by subsystem; identify public API, schema, and data-flow changes; cover edge cases, failure modes, tests, acceptance criteria, and explicit assumptions. Keep it concise enough to review but detailed enough that another engineer can implement it without making design decisions.
+
+                    When ready, call exit_plan_mode with the complete plan markdown, starting with a # title. Make exit_plan_mode the only and final tool call in that assistant response: it presents the plan for approval, and implementation begins only in a later step after approval.
+          - id: compaction
+            name: cordis:group
+            group: true
+            isolate:
+              compaction: true
+              toolResultPruner: true
+            config:
+              - id: compaction-basic
+                name: '@deepseek-ai/dsh-compaction-basic'
+              - id: command-compact
+                name: '@deepseek-ai/dsh-command-compact'
+              - id: tool-result-pruner
+                name: '@deepseek-ai/dsh-compaction-tool-result-pruner'
+                config:
+                  thresholdChars: 8192
+                  headChars: 4096
+                  tailChars: 1024
+          - id: delegation
+            name: cordis:group
+            group: true
+            isolate:
+              workflowEngine: true
+            config:
+              - id: tool-subagent-control
+                name: '@deepseek-ai/dsh-tool-subagent-control'
+              - id: tool-subagent-list-agents
+                name: '@deepseek-ai/dsh-tool-subagent-control/list-agents'
+              - id: tool-subagent
+                name: '@deepseek-ai/dsh-tool-subagent'
+                config:
+                  provider: spawn
+                  toolName: subagent
+                  modelSelectionSettings: true
+                  backgroundMode: continuable
+              - id: tool-subagent-fork
+                name: '@deepseek-ai/dsh-tool-subagent'
+                config:
+                  provider: fork
+                  toolName: subagent_fork
+                  backgroundMode: continuable
+              - id: workflow-ptc
+                name: '@deepseek-ai/dsh-workflow-ptc'
+                config:
+                  provider: spawn
+              - id: tool-workflow
+                name: '@deepseek-ai/dsh-tool-workflow'
+              - id: tool-ralph
+                name: '@deepseek-ai/dsh-tool-ralph'
+                disabled: true
+                config:
+                  subagentProvider: spawn
+                  maxRounds: 64
+          - id: tool-ask-user
+            name: '@deepseek-ai/dsh-tool-ask-user'
+          - id: tool-todo
+            name: '@deepseek-ai/dsh-tool-todo'
+            config:
+              allowParallelInProgress: true
+          - id: tool-web
+            name: '@deepseek-ai/dsh-tool-web'
+            config:
+              fetch: true
+              searchTimeoutMs: 60000
+          - id: present
+            name: '@deepseek-ai/dsh-tool-present'
+          - id: tool-plugin-manager
+            name: '@deepseek-ai/dsh-plugin-manager/tools'
+            disabled: true

@@ -1,0 +1,176 @@
+{
+ "C1": [
+  {
+   "turn": 1,
+   "label": "WE",
+   "col": 4,
+   "ind": 0,
+   "len": 868
+  },
+  {
+   "turn": 2,
+   "label": "WE",
+   "col": 10,
+   "ind": 1,
+   "len": 639
+  },
+  {
+   "turn": 3,
+   "label": "MIXED",
+   "col": 21,
+   "ind": 5,
+   "len": 8463
+  },
+  {
+   "turn": 4,
+   "label": "WE",
+   "col": 7,
+   "ind": 0,
+   "len": 732
+  },
+  {
+   "turn": 5,
+   "label": "WE",
+   "col": 2,
+   "ind": 0,
+   "len": 151
+  },
+  {
+   "turn": 6,
+   "label": "WE",
+   "col": 30,
+   "ind": 1,
+   "len": 2799
+  },
+  {
+   "turn": 7,
+   "label": "WE",
+   "col": 1,
+   "ind": 0,
+   "len": 149
+  },
+  {
+   "turn": 8,
+   "label": "WE",
+   "col": 1,
+   "ind": 0,
+   "len": 311
+  }
+ ],
+ "C6": [
+  {
+   "turn": 1,
+   "label": "WE",
+   "col": 4,
+   "ind": 0,
+   "len": 1104
+  },
+  {
+   "turn": 2,
+   "label": "WE",
+   "col": 3,
+   "ind": 0,
+   "len": 1090
+  },
+  {
+   "turn": 3,
+   "label": "WE",
+   "col": 5,
+   "ind": 0,
+   "len": 1712
+  },
+  {
+   "turn": 4,
+   "label": "WE",
+   "col": 13,
+   "ind": 0,
+   "len": 2014
+  },
+  {
+   "turn": 5,
+   "label": "WE",
+   "col": 10,
+   "ind": 0,
+   "len": 1128
+  },
+  {
+   "turn": 6,
+   "label": "WE",
+   "col": 2,
+   "ind": 0,
+   "len": 696
+  },
+  {
+   "turn": 7,
+   "label": "WE",
+   "col": 22,
+   "ind": 0,
+   "len": 2038
+  },
+  {
+   "turn": 8,
+   "label": "MIXED",
+   "col": 5,
+   "ind": 1,
+   "len": 1070
+  }
+ ],
+ "none": [
+  {
+   "turn": 1,
+   "label": "NONE",
+   "col": 0,
+   "ind": 0,
+   "len": 460
+  },
+  {
+   "turn": 2,
+   "label": "NONE",
+   "col": 0,
+   "ind": 0,
+   "len": 356
+  },
+  {
+   "turn": 3,
+   "label": "I",
+   "col": 0,
+   "ind": 1,
+   "len": 4266
+  },
+  {
+   "turn": 4,
+   "label": "NONE",
+   "col": 0,
+   "ind": 0,
+   "len": 3385
+  },
+  {
+   "turn": 5,
+   "label": "NONE",
+   "col": 0,
+   "ind": 0,
+   "len": 455
+  },
+  {
+   "turn": 6,
+   "label": "NONE",
+   "col": 0,
+   "ind": 0,
+   "len": 451
+  },
+  {
+   "turn": 7,
+   "label": "NONE",
+   "col": 0,
+   "ind": 0,
+   "len": 139
+  },
+  {
+   "turn": 8,
+   "label": "NONE",
+   "col": 0,
+   "ind": 0,
+   "len": 589
+  }
+ ]
+}

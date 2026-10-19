@@ -1,0 +1,182 @@
+[
+ {
+  "sid": "session-s001",
+  "blocks": 8,
+  "userMsgs": 0,
+  "meanRatio": 0,
+  "letMeRate": 1,
+  "totalInd": 37,
+  "totalCol": 0
+ },
+ {
+  "sid": "session-s002",
+  "blocks": 12,
+  "userMsgs": 0,
+  "meanRatio": 0,
+  "letMeRate": 1,
+  "totalInd": 65,
+  "totalCol": 0
+ },
+ {
+  "sid": "session-s003",
+  "blocks": 8,
+  "userMsgs": 0,
+  "meanRatio": 0,
+  "letMeRate": 1,
+  "totalInd": 35,
+  "totalCol": 0
+ },
+ {
+  "sid": "session-s004",
+  "blocks": 9,
+  "userMsgs": 0,
+  "meanRatio": 0,
+  "letMeRate": 1,
+  "totalInd": 56,
+  "totalCol": 0
+ },
+ {
+  "sid": "session-s005",
+  "blocks": 14,
+  "userMsgs": 0,
+  "meanRatio": 0,
+  "letMeRate": 1,
+  "totalInd": 91,
+  "totalCol": 0
+ },
+ {
+  "sid": "session-s006",
+  "blocks": 11,
+  "userMsgs": 0,
+  "meanRatio": 0,
+  "letMeRate": 1,
+  "totalInd": 89,
+  "totalCol": 0
+ },
+ {
+  "sid": "session-s007",
+  "blocks": 11,
+  "userMsgs": 0,
+  "meanRatio": 0,
+  "letMeRate": 1,
+  "totalInd": 88,
+  "totalCol": 0
+ },
+ {
+  "sid": "session-s008",
+  "blocks": 53,
+  "userMsgs": 0,
+  "meanRatio": 0.0017825311942959003,
+  "letMeRate": 1,
+  "totalInd": 554,
+  "totalCol": 1
+ },
+ {
+  "sid": "session-s009",
+  "blocks": 242,
+  "userMsgs": 0,
+  "meanRatio": 0.0030579200828359044,
+  "letMeRate": 1,
+  "totalInd": 6237,
+  "totalCol": 21
+ },
+ {
+  "sid": "session-s010",
+  "blocks": 14,
+  "userMsgs": 0,
+  "meanRatio": 0.0030760130139012125,
+  "letMeRate": 1,
+  "totalInd": 281,
+  "totalCol": 2
+ },
+ {
+  "sid": "session-s011",
+  "blocks": 41,
+  "userMsgs": 0,
+  "meanRatio": 0.003125,
+  "letMeRate": 1,
+  "totalInd": 298,
+  "totalCol": 1
+ },
+ {
+  "sid": "session-s012",
+  "blocks": 24,
+  "userMsgs": 0,
+  "meanRatio": 0.0032051282051282055,
+  "letMeRate": 1,
+  "totalInd": 386,
+  "totalCol": 1
+ },
+ {
+  "sid": "session-s013",
+  "blocks": 19,
+  "userMsgs": 0,
+  "meanRatio": 0.0037593984962406013,
+  "letMeRate": 1,
+  "totalInd": 200,
+  "totalCol": 2
+ },
+ {
+  "sid": "session-s014",
+  "blocks": 173,
+  "userMsgs": 0,
+  "meanRatio": 0.0040847356147980084,
+  "letMeRate": 0.9941860465116279,
+  "totalInd": 2577,
+  "totalCol": 4
+ },
+ {
+  "sid": "session-s015",
+  "blocks": 562,
+  "userMsgs": 0,
+  "meanRatio": 0.004618620415260534,
+  "letMeRate": 0.99812734082397,
+  "totalInd": 9349,
+  "totalCol": 53
+ },
+ {
+  "sid": "session-s016",
+  "blocks": 26,
+  "userMsgs": 0,
+  "meanRatio": 0.004807692307692308,
+  "letMeRate": 1,
+  "totalInd": 221,
+  "totalCol": 3
+ },
+ {
+  "sid": "session-s017",
+  "blocks": 340,
+  "userMsgs": 0,
+  "meanRatio": 0.00499481551818227,
+  "letMeRate": 0.9968354430379747,
+  "totalInd": 5477,
+  "totalCol": 21
+ },
+ {
+  "sid": "session-s018",
+  "blocks": 340,
+  "userMsgs": 0,
+  "meanRatio": 0.00499481551818227,
+  "letMeRate": 0.9968354430379747,
+  "totalInd": 5477,
+  "totalCol": 21
+ },
+ {
+  "sid": "session-s019",
+  "blocks": 36,
+  "userMsgs": 0,
+  "meanRatio": 0.006870590828924162,
+  "letMeRate": 1,
+  "totalInd": 509,
+  "totalCol": 5
+ },
+ {
+  "sid": "session-s020",
+  "blocks": 19,
+  "userMsgs": 0,
+  "meanRatio": 0.007518796992481203,
+  "letMeRate": 1,
+  "totalInd": 162,
+  "totalCol": 1
+ }
+]

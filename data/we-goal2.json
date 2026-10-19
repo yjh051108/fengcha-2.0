@@ -1,0 +1,92 @@
+[
+ {
+  "tag": "有锚点",
+  "turns": [
+   {
+    "turn": 1,
+    "label": "WE",
+    "len": 760,
+    "col": 3,
+    "ind": 0,
+    "contentLen": 72
+   },
+   {
+    "turn": 2,
+    "label": "WE",
+    "len": 582,
+    "col": 5,
+    "ind": 0,
+    "contentLen": 183
+   },
+   {
+    "turn": 3,
+    "label": "MIXED",
+    "len": 981,
+    "col": 2,
+    "ind": 1,
+    "contentLen": 634
+   },
+   {
+    "turn": 4,
+    "label": "WE",
+    "len": 620,
+    "col": 10,
+    "ind": 0,
+    "contentLen": 348
+   },
+   {
+    "turn": 5,
+    "label": "MIXED",
+    "len": 1353,
+    "col": 6,
+    "ind": 2,
+    "contentLen": 685
+   }
+  ]
+ },
+ {
+  "tag": "无锚点",
+  "turns": [
+   {
+    "turn": 1,
+    "label": "NONE",
+    "len": 164,
+    "col": 0,
+    "ind": 0,
+    "contentLen": 1295
+   },
+   {
+    "turn": 2,
+    "label": "NONE",
+    "len": 50,
+    "col": 0,
+    "ind": 0,
+    "contentLen": 1552
+   },
+   {
+    "turn": 3,
+    "label": "NONE",
+    "len": 1331,
+    "col": 0,
+    "ind": 0,
+    "contentLen": 2173
+   },
+   {
+    "turn": 4,
+    "label": "NONE",
+    "len": 116,
+    "col": 0,
+    "ind": 0,
+    "contentLen": 2035
+   },
+   {
+    "turn": 5,
+    "label": "NONE",
+    "len": 725,
+    "col": 0,
+    "ind": 0,
+    "contentLen": 1213
+   }
+  ]
+ }
+]

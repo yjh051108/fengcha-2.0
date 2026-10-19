@@ -1,0 +1,482 @@
+[
+ {
+  "kind": "R0_simple_current",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "col": 18,
+  "ind": 4,
+  "ratio": 0.8181818181818182,
+  "len": 6951,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "col": 7,
+  "ind": 8,
+  "ratio": 0.4666666666666667,
+  "len": 6133,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "col": 38,
+  "ind": 5,
+  "ratio": 0.8837209302325582,
+  "len": 11334,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "col": 14,
+  "ind": 5,
+  "ratio": 0.7368421052631579,
+  "len": 8533,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "col": 14,
+  "ind": 1,
+  "ratio": 0.9333333333333333,
+  "len": 1031,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "col": 18,
+  "ind": 1,
+  "ratio": 0.9473684210526315,
+  "len": 5543,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "col": 32,
+  "ind": 1,
+  "ratio": 0.9696969696969697,
+  "len": 9535,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "col": 18,
+  "ind": 4,
+  "ratio": 0.8181818181818182,
+  "len": 7209,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "col": 18,
+  "ind": 3,
+  "ratio": 0.8571428571428571,
+  "len": 5512,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "col": 9,
+  "ind": 0,
+  "ratio": 1,
+  "len": 3353,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "col": 13,
+  "ind": 1,
+  "ratio": 0.9285714285714286,
+  "len": 16020,
+  "error": null
+ },
+ {
+  "kind": "R0_simple_current",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "col": 17,
+  "ind": 7,
+  "ratio": 0.7083333333333334,
+  "len": 14744,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "col": 4,
+  "ind": 0,
+  "ratio": 1,
+  "len": 2025,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "col": 22,
+  "ind": 10,
+  "ratio": 0.6875,
+  "len": 10388,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "col": 28,
+  "ind": 6,
+  "ratio": 0.8235294117647058,
+  "len": 10233,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "col": 38,
+  "ind": 6,
+  "ratio": 0.8636363636363636,
+  "len": 5961,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "col": 12,
+  "ind": 0,
+  "ratio": 1,
+  "len": 1328,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "col": 8,
+  "ind": 0,
+  "ratio": 1,
+  "len": 574,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "col": 20,
+  "ind": 0,
+  "ratio": 1,
+  "len": 7957,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "col": 41,
+  "ind": 4,
+  "ratio": 0.9111111111111111,
+  "len": 14458,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "col": 17,
+  "ind": 3,
+  "ratio": 0.85,
+  "len": 3646,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "col": 10,
+  "ind": 0,
+  "ratio": 1,
+  "len": 1923,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "col": 24,
+  "ind": 1,
+  "ratio": 0.96,
+  "len": 15698,
+  "error": null
+ },
+ {
+  "kind": "R1_real_current",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "col": 15,
+  "ind": 13,
+  "ratio": 0.5357142857142857,
+  "len": 9719,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "col": 8,
+  "ind": 0,
+  "ratio": 1,
+  "len": 2041,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "col": 4,
+  "ind": 2,
+  "ratio": 0.6666666666666666,
+  "len": 1769,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "col": 45,
+  "ind": 11,
+  "ratio": 0.8035714285714286,
+  "len": 6824,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "col": 25,
+  "ind": 7,
+  "ratio": 0.78125,
+  "len": 7156,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "col": 14,
+  "ind": 0,
+  "ratio": 1,
+  "len": 1936,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "col": 5,
+  "ind": 0,
+  "ratio": 1,
+  "len": 506,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "col": 28,
+  "ind": 2,
+  "ratio": 0.9333333333333333,
+  "len": 9252,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "col": 16,
+  "ind": 6,
+  "ratio": 0.7272727272727273,
+  "len": 11872,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "col": 13,
+  "ind": 17,
+  "ratio": 0.43333333333333335,
+  "len": 8377,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "col": 9,
+  "ind": 3,
+  "ratio": 0.75,
+  "len": 3875,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "col": 14,
+  "ind": 1,
+  "ratio": 0.9333333333333333,
+  "len": 15222,
+  "error": null
+ },
+ {
+  "kind": "R2_anchor_last",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "col": 30,
+  "ind": 8,
+  "ratio": 0.7894736842105263,
+  "len": 15687,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "用 Python 写一个函数，判",
+  "rep": 0,
+  "col": 0,
+  "ind": 0,
+  "ratio": null,
+  "len": 457,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "用 Python 写一个函数，判",
+  "rep": 1,
+  "col": 0,
+  "ind": 3,
+  "ratio": 0,
+  "len": 766,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 0,
+  "col": 0,
+  "ind": 19,
+  "ratio": 0,
+  "len": 5257,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "分析这段代码的复杂度：for i",
+  "rep": 1,
+  "col": 0,
+  "ind": 26,
+  "ratio": 0,
+  "len": 6360,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 0,
+  "col": 0,
+  "ind": 19,
+  "ratio": 0,
+  "len": 5062,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "设计一个简单的限流器，说明你的选",
+  "rep": 1,
+  "col": 1,
+  "ind": 27,
+  "ratio": 0.03571428571428571,
+  "len": 4988,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 0,
+  "col": 1,
+  "ind": 36,
+  "ratio": 0.02702702702702703,
+  "len": 13689,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "这段 SQL 为什么可能返回错误",
+  "rep": 1,
+  "col": 1,
+  "ind": 34,
+  "ratio": 0.02857142857142857,
+  "len": 14993,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "用 Python 写一个函数，把",
+  "rep": 0,
+  "col": 0,
+  "ind": 0,
+  "ratio": null,
+  "len": 1045,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "用 Python 写一个函数，把",
+  "rep": 1,
+  "col": 0,
+  "ind": 5,
+  "ratio": 0,
+  "len": 6672,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 0,
+  "col": 0,
+  "ind": 24,
+  "ratio": 0,
+  "len": 13439,
+  "error": null
+ },
+ {
+  "kind": "R3_none",
+  "task": "这段代码有什么并发问题？\n```",
+  "rep": 1,
+  "col": 3,
+  "ind": 39,
+  "ratio": 0.07142857142857142,
+  "len": 14450,
+  "error": null
+ }
+]

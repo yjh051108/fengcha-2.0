@@ -1,0 +1,988 @@
+{
+ "sessStats": [
+  {
+   "id": "session-s021",
+   "n": 18,
+   "meanRatio": 0.01337792642140468,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s022",
+   "n": 36,
+   "meanRatio": 0.01380134305607053,
+   "weFrac": 0,
+   "iFrac": 0.9722222222222222
+  },
+  {
+   "id": "session-s023",
+   "n": 14,
+   "meanRatio": 0.04028636405829388,
+   "weFrac": 0,
+   "iFrac": 0.9285714285714286
+  },
+  {
+   "id": "session-s024",
+   "n": 19,
+   "meanRatio": 0.02462827994392198,
+   "weFrac": 0,
+   "iFrac": 0.9
+  },
+  {
+   "id": "session-s025",
+   "n": 20,
+   "meanRatio": 0.036892381704330075,
+   "weFrac": 0,
+   "iFrac": 0.95
+  },
+  {
+   "id": "session-s026",
+   "n": 24,
+   "meanRatio": 0.021695040821206532,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s027",
+   "n": 147,
+   "meanRatio": 0.08717994190348172,
+   "weFrac": 0.006802721088435374,
+   "iFrac": 0.7891156462585034
+  },
+  {
+   "id": "session-s012",
+   "n": 24,
+   "meanRatio": 0.003472222222222222,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s028",
+   "n": 54,
+   "meanRatio": 0.008265072743846955,
+   "weFrac": 0,
+   "iFrac": 0.9818181818181818
+  },
+  {
+   "id": "session-s029",
+   "n": 178,
+   "meanRatio": 0.011730683383963648,
+   "weFrac": 0,
+   "iFrac": 0.9301075268817204
+  },
+  {
+   "id": "session-s030",
+   "n": 49,
+   "meanRatio": 0.18279143225642955,
+   "weFrac": 0.03571428571428571,
+   "iFrac": 0.5
+  },
+  {
+   "id": "session-s031",
+   "n": 39,
+   "meanRatio": 0.014941099693696742,
+   "weFrac": 0,
+   "iFrac": 0.95
+  },
+  {
+   "id": "session-s032",
+   "n": 8,
+   "meanRatio": 0.04640428406875775,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s033",
+   "n": 24,
+   "meanRatio": 0.04568697186263934,
+   "weFrac": 0,
+   "iFrac": 0.9583333333333334
+  },
+  {
+   "id": "session-s034",
+   "n": 46,
+   "meanRatio": 0.09016795614370596,
+   "weFrac": 0,
+   "iFrac": 0.782608695652174
+  },
+  {
+   "id": "session-s035",
+   "n": 70,
+   "meanRatio": 0.23601176505114552,
+   "weFrac": 0.0821917808219178,
+   "iFrac": 0.589041095890411
+  },
+  {
+   "id": "session-s036",
+   "n": 44,
+   "meanRatio": 0.0939652769981676,
+   "weFrac": 0.02,
+   "iFrac": 0.7
+  },
+  {
+   "id": "session-s037",
+   "n": 44,
+   "meanRatio": 0.036677442907882156,
+   "weFrac": 0,
+   "iFrac": 0.8913043478260869
+  },
+  {
+   "id": "session-s038",
+   "n": 8,
+   "meanRatio": 0.016815732065363603,
+   "weFrac": 0,
+   "iFrac": 0.47058823529411764
+  },
+  {
+   "id": "session-s039",
+   "n": 54,
+   "meanRatio": 0.09442473659722316,
+   "weFrac": 0,
+   "iFrac": 0.6949152542372882
+  },
+  {
+   "id": "session-s040",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s041",
+   "n": 13,
+   "meanRatio": 0.04102404841535276,
+   "weFrac": 0,
+   "iFrac": 0.8
+  },
+  {
+   "id": "session-s042",
+   "n": 30,
+   "meanRatio": 0.11100382264569908,
+   "weFrac": 0,
+   "iFrac": 0.625
+  },
+  {
+   "id": "session-s043",
+   "n": 105,
+   "meanRatio": 0.9340844544454862,
+   "weFrac": 0.7583333333333333,
+   "iFrac": 0.016666666666666666
+  },
+  {
+   "id": "session-s044",
+   "n": 3,
+   "meanRatio": 0.1111111111111111,
+   "weFrac": 0,
+   "iFrac": 0.6666666666666666
+  },
+  {
+   "id": "session-s045",
+   "n": 5,
+   "meanRatio": 0.02524271844660194,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s046",
+   "n": 12,
+   "meanRatio": 0.1391509433962264,
+   "weFrac": 0.07692307692307693,
+   "iFrac": 0.6923076923076923
+  },
+  {
+   "id": "session-s047",
+   "n": 6,
+   "meanRatio": 0.3541666666666667,
+   "weFrac": 0.25,
+   "iFrac": 0.5
+  },
+  {
+   "id": "session-s048",
+   "n": 10,
+   "meanRatio": 0.28206818181818183,
+   "weFrac": 0.08333333333333333,
+   "iFrac": 0.4166666666666667
+  },
+  {
+   "id": "session-s049",
+   "n": 24,
+   "meanRatio": 0.04834140106776749,
+   "weFrac": 0,
+   "iFrac": 0.5641025641025641
+  },
+  {
+   "id": "session-s050",
+   "n": 21,
+   "meanRatio": 0.011606458252611307,
+   "weFrac": 0,
+   "iFrac": 0.9545454545454546
+  },
+  {
+   "id": "session-s051",
+   "n": 30,
+   "meanRatio": 0.04035507222405206,
+   "weFrac": 0,
+   "iFrac": 0.9
+  },
+  {
+   "id": "session-s052",
+   "n": 288,
+   "meanRatio": 0.02037491872138931,
+   "weFrac": 0,
+   "iFrac": 0.9413793103448276
+  },
+  {
+   "id": "session-s053",
+   "n": 5,
+   "meanRatio": 0.2,
+   "weFrac": 0.2,
+   "iFrac": 0.8
+  },
+  {
+   "id": "session-s054",
+   "n": 468,
+   "meanRatio": 0.9644062935094274,
+   "weFrac": 0.6914556962025317,
+   "iFrac": 0.007911392405063292
+  },
+  {
+   "id": "session-s055",
+   "n": 22,
+   "meanRatio": 0.021188469644739187,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s056",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s057",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s058",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s059",
+   "n": 5,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.8333333333333334
+  },
+  {
+   "id": "session-s060",
+   "n": 8,
+   "meanRatio": 0.013392857142857142,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s010",
+   "n": 14,
+   "meanRatio": 0.0032149223325693916,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s020",
+   "n": 19,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s061",
+   "n": 10,
+   "meanRatio": 0.01111111111111111,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s062",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s001",
+   "n": 7,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.875
+  },
+  {
+   "id": "session-s063",
+   "n": 5,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s064",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.8
+  },
+  {
+   "id": "session-s065",
+   "n": 7,
+   "meanRatio": 0.03571428571428571,
+   "weFrac": 0,
+   "iFrac": 0.75
+  },
+  {
+   "id": "session-s066",
+   "n": 4,
+   "meanRatio": 0.004545454545454545,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s067",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s068",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s069",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s002",
+   "n": 12,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s070",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s071",
+   "n": 7,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s072",
+   "n": 8,
+   "meanRatio": 0.029404761904761906,
+   "weFrac": 0,
+   "iFrac": 0.875
+  },
+  {
+   "id": "session-s073",
+   "n": 4,
+   "meanRatio": 0.08333333333333333,
+   "weFrac": 0,
+   "iFrac": 0.75
+  },
+  {
+   "id": "session-s074",
+   "n": 9,
+   "meanRatio": 0.012238325281803542,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s075",
+   "n": 6,
+   "meanRatio": 0.012801932367149757,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s076",
+   "n": 8,
+   "meanRatio": 0.008793290043290044,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s077",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s078",
+   "n": 5,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.8333333333333334
+  },
+  {
+   "id": "session-s079",
+   "n": 7,
+   "meanRatio": 0.10714285714285714,
+   "weFrac": 0,
+   "iFrac": 0.7142857142857143
+  },
+  {
+   "id": "session-s003",
+   "n": 8,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s004",
+   "n": 9,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s005",
+   "n": 13,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.9285714285714286
+  },
+  {
+   "id": "session-s080",
+   "n": 19,
+   "meanRatio": 0.007518796992481203,
+   "weFrac": 0,
+   "iFrac": 0.95
+  },
+  {
+   "id": "session-s081",
+   "n": 7,
+   "meanRatio": 0.04251700680272109,
+   "weFrac": 0,
+   "iFrac": 0.8571428571428571
+  },
+  {
+   "id": "session-s082",
+   "n": 10,
+   "meanRatio": 0.014285714285714285,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s083",
+   "n": 39,
+   "meanRatio": 0.01961400289491928,
+   "weFrac": 0,
+   "iFrac": 0.9024390243902439
+  },
+  {
+   "id": "session-s084",
+   "n": 5,
+   "meanRatio": 0.03333333333333333,
+   "weFrac": 0,
+   "iFrac": 0.8
+  },
+  {
+   "id": "session-s085",
+   "n": 4,
+   "meanRatio": 0.145253033430278,
+   "weFrac": 0,
+   "iFrac": 0.75
+  },
+  {
+   "id": "session-s016",
+   "n": 26,
+   "meanRatio": 0.005045492142266335,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s086",
+   "n": 60,
+   "meanRatio": 0.01278363654833894,
+   "weFrac": 0,
+   "iFrac": 0.921875
+  },
+  {
+   "id": "session-s087",
+   "n": 11,
+   "meanRatio": 0.37632252007252004,
+   "weFrac": 0.18181818181818182,
+   "iFrac": 0.2727272727272727
+  },
+  {
+   "id": "session-s088",
+   "n": 45,
+   "meanRatio": 0.23876038773804314,
+   "weFrac": 0.05555555555555555,
+   "iFrac": 0.42592592592592593
+  },
+  {
+   "id": "session-s089",
+   "n": 17,
+   "meanRatio": 0.14891960543655497,
+   "weFrac": 0.07692307692307693,
+   "iFrac": 0.5384615384615384
+  },
+  {
+   "id": "session-s090",
+   "n": 126,
+   "meanRatio": 0.042133788484231154,
+   "weFrac": 0.007194244604316547,
+   "iFrac": 0.8201438848920863
+  },
+  {
+   "id": "session-s091",
+   "n": 9,
+   "meanRatio": 0.08117056077132644,
+   "weFrac": 0,
+   "iFrac": 0.7777777777777778
+  },
+  {
+   "id": "session-s092",
+   "n": 12,
+   "meanRatio": 0.1869047619047619,
+   "weFrac": 0,
+   "iFrac": 0.5384615384615384
+  },
+  {
+   "id": "session-s011",
+   "n": 40,
+   "meanRatio": 0.003125,
+   "weFrac": 0,
+   "iFrac": 0.975609756097561
+  },
+  {
+   "id": "session-s093",
+   "n": 9,
+   "meanRatio": 0.22514619883040934,
+   "weFrac": 0.2,
+   "iFrac": 0.7
+  },
+  {
+   "id": "session-s094",
+   "n": 50,
+   "meanRatio": 0.0375983365768055,
+   "weFrac": 0,
+   "iFrac": 0.9019607843137255
+  },
+  {
+   "id": "session-s095",
+   "n": 32,
+   "meanRatio": 0.08918315669376446,
+   "weFrac": 0,
+   "iFrac": 0.6857142857142857
+  },
+  {
+   "id": "session-s015",
+   "n": 534,
+   "meanRatio": 0.00377323521146485,
+   "weFrac": 0,
+   "iFrac": 0.9448398576512456
+  },
+  {
+   "id": "session-s017",
+   "n": 316,
+   "meanRatio": 0.004126505482896231,
+   "weFrac": 0,
+   "iFrac": 0.9264705882352942
+  },
+  {
+   "id": "session-s096",
+   "n": 5,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s018",
+   "n": 316,
+   "meanRatio": 0.004126505482896231,
+   "weFrac": 0,
+   "iFrac": 0.9264705882352942
+  },
+  {
+   "id": "session-s097",
+   "n": 16,
+   "meanRatio": 0.03645833333333333,
+   "weFrac": 0,
+   "iFrac": 0.7368421052631579
+  },
+  {
+   "id": "session-s008",
+   "n": 52,
+   "meanRatio": 0.0017482517482517483,
+   "weFrac": 0,
+   "iFrac": 0.9629629629629629
+  },
+  {
+   "id": "session-s098",
+   "n": 18,
+   "meanRatio": 0.005555555555555556,
+   "weFrac": 0,
+   "iFrac": 0.9473684210526315
+  },
+  {
+   "id": "session-s099",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s100",
+   "n": 4,
+   "meanRatio": 0.0625,
+   "weFrac": 0,
+   "iFrac": 0.6
+  },
+  {
+   "id": "session-s009",
+   "n": 234,
+   "meanRatio": 0.002330758116332564,
+   "weFrac": 0,
+   "iFrac": 0.9628099173553719
+  },
+  {
+   "id": "session-s101",
+   "n": 32,
+   "meanRatio": 0.044270833333333336,
+   "weFrac": 0,
+   "iFrac": 0.84375
+  },
+  {
+   "id": "session-s102",
+   "n": 79,
+   "meanRatio": 0.004754949691658552,
+   "weFrac": 0,
+   "iFrac": 0.9629629629629629
+  },
+  {
+   "id": "session-s103",
+   "n": 8,
+   "meanRatio": 0.6926406926406927,
+   "weFrac": 0.5,
+   "iFrac": 0.125
+  },
+  {
+   "id": "session-s104",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.8
+  },
+  {
+   "id": "session-s105",
+   "n": 345,
+   "meanRatio": 0.009263412431603307,
+   "weFrac": 0,
+   "iFrac": 0.9497206703910615
+  },
+  {
+   "id": "session-s106",
+   "n": 61,
+   "meanRatio": 0.03884524407758723,
+   "weFrac": 0,
+   "iFrac": 0.8484848484848485
+  },
+  {
+   "id": "session-s019",
+   "n": 36,
+   "meanRatio": 0.0046327243018419485,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s107",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s108",
+   "n": 24,
+   "meanRatio": 0.0514069264069264,
+   "weFrac": 0,
+   "iFrac": 0.84
+  },
+  {
+   "id": "session-s109",
+   "n": 13,
+   "meanRatio": 0.02673184658478776,
+   "weFrac": 0,
+   "iFrac": 0.8666666666666667
+  },
+  {
+   "id": "session-s006",
+   "n": 11,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s110",
+   "n": 10,
+   "meanRatio": 0.014285714285714285,
+   "weFrac": 0,
+   "iFrac": 0.9090909090909091
+  },
+  {
+   "id": "session-s111",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.75
+  },
+  {
+   "id": "session-s112",
+   "n": 5,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s113",
+   "n": 13,
+   "meanRatio": 0.01554001554001554,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s114",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s115",
+   "n": 8,
+   "meanRatio": 0.0328125,
+   "weFrac": 0,
+   "iFrac": 0.875
+  },
+  {
+   "id": "session-s013",
+   "n": 19,
+   "meanRatio": 0.003898635477582846,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s116",
+   "n": 166,
+   "meanRatio": 0.0090261427681697,
+   "weFrac": 0,
+   "iFrac": 0.9704142011834319
+  },
+  {
+   "id": "session-s117",
+   "n": 5,
+   "meanRatio": 0.04,
+   "weFrac": 0,
+   "iFrac": 0.8
+  },
+  {
+   "id": "session-s118",
+   "n": 3,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s119",
+   "n": 5,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s120",
+   "n": 26,
+   "meanRatio": 0.07316849816849816,
+   "weFrac": 0.037037037037037035,
+   "iFrac": 0.8518518518518519
+  },
+  {
+   "id": "session-s121",
+   "n": 4,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.6666666666666666
+  },
+  {
+   "id": "session-s122",
+   "n": 59,
+   "meanRatio": 0.27828210959224103,
+   "weFrac": 0.1016949152542373,
+   "iFrac": 0.4745762711864407
+  },
+  {
+   "id": "session-s123",
+   "n": 34,
+   "meanRatio": 0.29542753254226267,
+   "weFrac": 0.058823529411764705,
+   "iFrac": 0.35294117647058826
+  },
+  {
+   "id": "session-s124",
+   "n": 7,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 1
+  },
+  {
+   "id": "session-s125",
+   "n": 60,
+   "meanRatio": 0.20176294659073293,
+   "weFrac": 0.04918032786885246,
+   "iFrac": 0.5409836065573771
+  },
+  {
+   "id": "session-s126",
+   "n": 21,
+   "meanRatio": 0.41576160566308346,
+   "weFrac": 0.047619047619047616,
+   "iFrac": 0.23809523809523808
+  },
+  {
+   "id": "session-s127",
+   "n": 35,
+   "meanRatio": 0.027705627705627702,
+   "weFrac": 0,
+   "iFrac": 0.8611111111111112
+  },
+  {
+   "id": "session-s007",
+   "n": 10,
+   "meanRatio": 0,
+   "weFrac": 0,
+   "iFrac": 0.9090909090909091
+  },
+  {
+   "id": "session-s128",
+   "n": 41,
+   "meanRatio": 0.023015456729068056,
+   "weFrac": 0,
+   "iFrac": 0.48717948717948717
+  },
+  {
+   "id": "session-s129",
+   "n": 24,
+   "meanRatio": 0.49573412698412694,
+   "weFrac": 0.20833333333333334,
+   "iFrac": 0.125
+  },
+  {
+   "id": "session-s130",
+   "n": 57,
+   "meanRatio": 0.0407704868231184,
+   "weFrac": 0,
+   "iFrac": 0.8947368421052632
+  },
+  {
+   "id": "session-s131",
+   "n": 30,
+   "meanRatio": 0.38229900036133657,
+   "weFrac": 0.1,
+   "iFrac": 0.3333333333333333
+  },
+  {
+   "id": "session-s132",
+   "n": 15,
+   "meanRatio": 0.40028897347862863,
+   "weFrac": 0.2,
+   "iFrac": 0.3333333333333333
+  },
+  {
+   "id": "session-s133",
+   "n": 88,
+   "meanRatio": 0.009419433748352983,
+   "weFrac": 0,
+   "iFrac": 0.8349514563106796
+  },
+  {
+   "id": "session-s014",
+   "n": 173,
+   "meanRatio": 0.0039017341040462426,
+   "weFrac": 0,
+   "iFrac": 0.9885057471264368
+  },
+  {
+   "id": "session-s134",
+   "n": 136,
+   "meanRatio": 0.01428053062783228,
+   "weFrac": 0,
+   "iFrac": 0.9440559440559441
+  },
+  {
+   "id": "session-s135",
+   "n": 133,
+   "meanRatio": 0.7953759913976631,
+   "weFrac": 0.6462585034013606,
+   "iFrac": 0.1360544217687075
+  },
+  {
+   "id": "session-s136",
+   "n": 62,
+   "meanRatio": 0.012494342987886162,
+   "weFrac": 0,
+   "iFrac": 0.967741935483871
+  },
+  {
+   "id": "session-s137",
+   "n": 12,
+   "meanRatio": 0.1252843561667091,
+   "weFrac": 0,
+   "iFrac": 0.6666666666666666
+  },
+  {
+   "id": "session-s138",
+   "n": 162,
+   "meanRatio": 0.15372892744802039,
+   "weFrac": 0.08522727272727272,
+   "iFrac": 0.7102272727272727
+  },
+  {
+   "id": "session-s139",
+   "n": 28,
+   "meanRatio": 0.2503653332675412,
+   "weFrac": 0,
+   "iFrac": 0.25
+  }
+ ],
+ "trans": {
+  "I→I": 4892,
+  "I→WE": 52,
+  "WE→I": 59,
+  "WE→WE": 626
+ },
+ "posBins": {
+  "early": 4638,
+  "mid": 4638,
+  "late": 4638
+ }
+}

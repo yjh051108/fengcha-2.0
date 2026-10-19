@@ -1,0 +1,178 @@
+[
+ {
+  "variant": "A_base",
+  "taskId": "bigmod",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 4801,
+  "finish": "length",
+  "error": null,
+  "secs": 9
+ },
+ {
+  "variant": "A_base",
+  "taskId": "bigmod",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 9031,
+  "finish": "length",
+  "error": null,
+  "secs": 14
+ },
+ {
+  "variant": "A_base",
+  "taskId": "pow500",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 4670,
+  "finish": "length",
+  "error": null,
+  "secs": 8
+ },
+ {
+  "variant": "A_base",
+  "taskId": "pow500",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 9057,
+  "finish": "length",
+  "error": null,
+  "secs": 14
+ },
+ {
+  "variant": "B_budget",
+  "taskId": "bigmod",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 4441,
+  "finish": "length",
+  "error": null,
+  "secs": 7
+ },
+ {
+  "variant": "B_budget",
+  "taskId": "bigmod",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 8704,
+  "finish": "length",
+  "error": null,
+  "secs": 13
+ },
+ {
+  "variant": "B_budget",
+  "taskId": "pow500",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 4670,
+  "finish": "length",
+  "error": null,
+  "secs": 8
+ },
+ {
+  "variant": "B_budget",
+  "taskId": "pow500",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 8877,
+  "finish": "length",
+  "error": null,
+  "secs": 13
+ },
+ {
+  "variant": "C_answer_first",
+  "taskId": "bigmod",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 5427,
+  "finish": "length",
+  "error": null,
+  "secs": 9
+ },
+ {
+  "variant": "C_answer_first",
+  "taskId": "bigmod",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 8913,
+  "finish": "length",
+  "error": null,
+  "secs": 14
+ },
+ {
+  "variant": "C_answer_first",
+  "taskId": "pow500",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 4490,
+  "finish": "length",
+  "error": null,
+  "secs": 8
+ },
+ {
+  "variant": "C_answer_first",
+  "taskId": "pow500",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 8992,
+  "finish": "length",
+  "error": null,
+  "secs": 14
+ },
+ {
+  "variant": "E_format",
+  "taskId": "bigmod",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 4767,
+  "finish": "length",
+  "error": null,
+  "secs": 8
+ },
+ {
+  "variant": "E_format",
+  "taskId": "bigmod",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 8877,
+  "finish": "length",
+  "error": null,
+  "secs": 14
+ },
+ {
+  "variant": "E_format",
+  "taskId": "pow500",
+  "maxTokens": 2000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 4431,
+  "finish": "length",
+  "error": null,
+  "secs": 7
+ },
+ {
+  "variant": "E_format",
+  "taskId": "pow500",
+  "maxTokens": 4000,
+  "pass": false,
+  "contentLen": 0,
+  "reasoningLen": 8953,
+  "finish": "length",
+  "error": null,
+  "secs": 14
+ }
+]

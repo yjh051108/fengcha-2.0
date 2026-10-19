@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="338" viewBox="0 0 720 338" role="img" aria-labelledby="t6">
+  <rect width="720" height="338" fill="#fff"/>
+  <text id="t6" x="20" y="32" font-size="17" font-weight="700" fill="#111">图 6｜已深陷 Let me 的真实长会话能否拉回</text>
+  <text x="20" y="54" font-size="12.5" fill="#666">底座：真实会话（562 个推理块，We 占比 0.005，100% Let me）· effort=max · 每变体 n=4–6</text>
+  <line x1="190" y1="72" x2="190" y2="282" stroke="#e3e6ea"/>
+  
+    <text x="180" y="95" text-anchor="end" font-size="13" fill="#222">末尾锚点 ×2</text>
+    <rect x="190" y="83" width="331.76" height="22" rx="3" fill="#16a34a" opacity="0.9"/>
+    <text x="529.76" y="98" font-size="13" fill="#333" font-weight="600">0.754</text>
+    <text x="180" y="129" text-anchor="end" font-size="13" fill="#222">清洗历史 + 锚点</text>
+    <rect x="190" y="117" width="315.03999999999996" height="22" rx="3" fill="#e8730c" opacity="0.9"/>
+    <text x="513.04" y="132" font-size="13" fill="#333" font-weight="600">0.716</text>
+    <text x="180" y="163" text-anchor="end" font-size="13" fill="#222">头尾各一份</text>
+    <rect x="190" y="151" width="267.52" height="22" rx="3" fill="#16a34a" opacity="0.9"/>
+    <text x="465.52" y="166" font-size="13" fill="#333" font-weight="600">0.608</text>
+    <text x="180" y="197" text-anchor="end" font-size="13" fill="#222">末尾锚点（现状）</text>
+    <rect x="190" y="185" width="232.32000000000002" height="22" rx="3" fill="#2f6fed" opacity="0.9"/>
+    <text x="430.32000000000005" y="200" font-size="13" fill="#333" font-weight="600">0.528</text>
+    <text x="180" y="231" text-anchor="end" font-size="13" fill="#222">示范消息 + 锚点</text>
+    <rect x="190" y="219" width="229.68" height="22" rx="3" fill="#2f6fed" opacity="0.45"/>
+    <text x="427.68" y="234" font-size="13" fill="#333" font-weight="600">0.522</text>
+    <text x="180" y="265" text-anchor="end" font-size="13" fill="#222">不加锚点</text>
+    <rect x="190" y="253" width="13.64" height="22" rx="3" fill="#9aa1ab" opacity="0.9"/>
+    <text x="211.64" y="268" font-size="13" fill="#333" font-weight="600">0.031</text>
+  <text x="20" y="316" font-size="11.5" fill="#888">结论：锚点可从深陷状态拉回；且「多注入」没有出现疲劳衰减。样本小，仅方向可信。</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270" role="img" aria-labelledby="t4">
+  <rect width="720" height="270" fill="#fff"/>
+  <text id="t4" x="20" y="32" font-size="17" font-weight="700" fill="#111">图 4｜锚点在整条 wire 里的位置（别再往后挪）</text>
+  <text x="20" y="54" font-size="12.5" fill="#666">真实完整 wire：system → user → runtime-context → skill-catalog → time-context · n=12/组</text>
+  <line x1="190" y1="72" x2="190" y2="214" stroke="#e3e6ea"/>
+  
+    <text x="180" y="95" text-anchor="end" font-size="13" fill="#222">锚点 → skill → time（现状）</text>
+    <rect x="190" y="83" width="389.84000000000003" height="22" rx="3" fill="#16a34a" opacity="0.9"/>
+    <text x="587.84" y="98" font-size="13" fill="#333" font-weight="600">0.886</text>
+    <text x="180" y="129" text-anchor="end" font-size="13" fill="#222">锚点后无内容（简化）</text>
+    <rect x="190" y="117" width="369.15999999999997" height="22" rx="3" fill="#2f6fed" opacity="0.45"/>
+    <text x="567.16" y="132" font-size="13" fill="#333" font-weight="600">0.839</text>
+    <text x="180" y="163" text-anchor="end" font-size="13" fill="#222">skill → time → 锚点（最后）</text>
+    <rect x="190" y="151" width="359.91999999999996" height="22" rx="3" fill="#dc2626" opacity="0.9"/>
+    <text x="557.92" y="166" font-size="13" fill="#333" font-weight="600">0.818</text>
+    <text x="180" y="197" text-anchor="end" font-size="13" fill="#222">无锚点</text>
+    <rect x="190" y="185" width="7.04" height="22" rx="3" fill="#9aa1ab" opacity="0.9"/>
+    <text x="205.04" y="200" font-size="13" fill="#333" font-weight="600">0.016</text>
+  <text x="20" y="248" font-size="11.5" fill="#888">结论：把锚点挪到 wire 最末尾反而变差。当前默认追加位置已是最优。</text>
+</svg>

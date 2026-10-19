@@ -1,0 +1,1634 @@
+[
+ {
+  "effort": "low",
+  "taskId": "bigmod",
+  "maxTokens": 500,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 1520,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 500,
+   "total_tokens": 549,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.03
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "bigmod",
+  "maxTokens": 1000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 2769,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 1000,
+   "total_tokens": 1049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.06
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "bigmod",
+  "maxTokens": 2000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 4380,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 2000,
+   "total_tokens": 2049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.11
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "bigmod",
+  "maxTokens": 4000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 8590,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 4000,
+   "total_tokens": 4049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.23
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "bigmod",
+  "maxTokens": 8000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 17551,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 8000,
+   "total_tokens": 8049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.46
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "bigmod",
+  "maxTokens": 16000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 36002,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 16000,
+   "total_tokens": 16049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.91
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "sqrt2",
+  "maxTokens": 500,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 550,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 180,
+   "total_tokens": 230,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.01
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "sqrt2",
+  "maxTokens": 1000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 764,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 325,
+   "total_tokens": 375,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "sqrt2",
+  "maxTokens": 2000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 785,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 328,
+   "total_tokens": 378,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "sqrt2",
+  "maxTokens": 4000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 630,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 281,
+   "total_tokens": 331,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "sqrt2",
+  "maxTokens": 8000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 622,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 272,
+   "total_tokens": 322,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "sqrt2",
+  "maxTokens": 16000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 638,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 277,
+   "total_tokens": 327,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_sum",
+  "maxTokens": 500,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 38,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 15,
+   "total_tokens": 58,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_sum",
+  "maxTokens": 1000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 53,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 19,
+   "total_tokens": 62,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_sum",
+  "maxTokens": 2000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 55,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 19,
+   "total_tokens": 62,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_sum",
+  "maxTokens": 4000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 58,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 19,
+   "total_tokens": 62,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_sum",
+  "maxTokens": 8000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 51,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 18,
+   "total_tokens": 61,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_sum",
+  "maxTokens": 16000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 64,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 20,
+   "total_tokens": 63,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_word",
+  "maxTokens": 500,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 71,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 18,
+   "total_tokens": 61,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_word",
+  "maxTokens": 1000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 84,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 20,
+   "total_tokens": 63,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_word",
+  "maxTokens": 2000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 80,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 19,
+   "total_tokens": 62,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_word",
+  "maxTokens": 4000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 54,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 15,
+   "total_tokens": 58,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_word",
+  "maxTokens": 8000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 80,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 19,
+   "total_tokens": 62,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "low",
+  "taskId": "easy_word",
+  "maxTokens": 16000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 37,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 11,
+   "total_tokens": 54,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "bigmod",
+  "maxTokens": 500,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 1781,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 500,
+   "total_tokens": 549,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.03
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "bigmod",
+  "maxTokens": 1000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 2439,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 1000,
+   "total_tokens": 1049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.06
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "bigmod",
+  "maxTokens": 2000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 4726,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 2000,
+   "total_tokens": 2049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.11
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "bigmod",
+  "maxTokens": 4000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 9513,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 4000,
+   "total_tokens": 4049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.23
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "bigmod",
+  "maxTokens": 8000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 19342,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 8000,
+   "total_tokens": 8049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.46
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "bigmod",
+  "maxTokens": 16000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 0,
+  "reasoningLen": 35269,
+  "finish": "length",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 49,
+   "completion_tokens": 16000,
+   "total_tokens": 16049,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.91
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "sqrt2",
+  "maxTokens": 500,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 550,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 256,
+   "total_tokens": 306,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "sqrt2",
+  "maxTokens": 1000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 1070,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 369,
+   "total_tokens": 419,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "sqrt2",
+  "maxTokens": 2000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 486,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 171,
+   "total_tokens": 221,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.01
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "sqrt2",
+  "maxTokens": 4000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 1091,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 505,
+   "total_tokens": 555,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.03
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "sqrt2",
+  "maxTokens": 8000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 815,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 337,
+   "total_tokens": 387,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "sqrt2",
+  "maxTokens": 16000,
+  "pass": true,
+  "parsed": "1.414213562373095048",
+  "contentLen": 32,
+  "reasoningLen": 803,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 50,
+   "completion_tokens": 337,
+   "total_tokens": 387,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0.02
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_sum",
+  "maxTokens": 500,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 41,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 14,
+   "total_tokens": 57,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_sum",
+  "maxTokens": 1000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 32,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 11,
+   "total_tokens": 54,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_sum",
+  "maxTokens": 2000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 39,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 16,
+   "total_tokens": 59,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_sum",
+  "maxTokens": 4000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 56,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 19,
+   "total_tokens": 62,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_sum",
+  "maxTokens": 8000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 53,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 18,
+   "total_tokens": 61,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_sum",
+  "maxTokens": 16000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 2,
+  "reasoningLen": 65,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 21,
+   "total_tokens": 64,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_word",
+  "maxTokens": 500,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 59,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 16,
+   "total_tokens": 59,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_word",
+  "maxTokens": 1000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 59,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 16,
+   "total_tokens": 59,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_word",
+  "maxTokens": 2000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 83,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 21,
+   "total_tokens": 64,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_word",
+  "maxTokens": 4000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 38,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 12,
+   "total_tokens": 55,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_word",
+  "maxTokens": 8000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 49,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 14,
+   "total_tokens": 57,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ },
+ {
+  "effort": "max",
+  "taskId": "easy_word",
+  "maxTokens": 16000,
+  "pass": false,
+  "parsed": "no_code_block",
+  "contentLen": 5,
+  "reasoningLen": 54,
+  "finish": "stop",
+  "error": null,
+  "usage": {
+   "prompt_tokens": 43,
+   "completion_tokens": 15,
+   "total_tokens": 58,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0
+   },
+   "completion_tokens_details": {
+    "text_tokens": 0,
+    "audio_tokens": 0,
+    "image_tokens": 0,
+    "reasoning_tokens": 0
+   },
+   "input_tokens": 0,
+   "output_tokens": 0,
+   "input_tokens_details": null,
+   "claude_cache_creation_5_m_tokens": 0,
+   "claude_cache_creation_1_h_tokens": 0,
+   "credit": 0
+  }
+ }
+]

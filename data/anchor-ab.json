@@ -1,0 +1,326 @@
+[
+ {
+  "anchor": "V0_current",
+  "task": "t1_build",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t1_build",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t1_build",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t2_inspect",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t2_inspect",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t2_inspect",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t3_report",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t3_report",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V0_current",
+  "task": "t3_report",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t1_build",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t1_build",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t1_build",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t2_inspect",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t2_inspect",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t2_inspect",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t3_report",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t3_report",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V1_zh_min",
+  "task": "t3_report",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t1_build",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t1_build",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t1_build",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t2_inspect",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t2_inspect",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t2_inspect",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t3_report",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t3_report",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V2_zh_entities",
+  "task": "t3_report",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t1_build",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t1_build",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t1_build",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t2_inspect",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t2_inspect",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t2_inspect",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t3_report",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t3_report",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V3_zh_first",
+  "task": "t3_report",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t1_build",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t1_build",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t1_build",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t2_inspect",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t2_inspect",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t2_inspect",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t3_report",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t3_report",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "V4_bilingual",
+  "task": "t3_report",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t1_build",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t1_build",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t1_build",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t2_inspect",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t2_inspect",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t2_inspect",
+  "rep": 2,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t3_report",
+  "rep": 0,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t3_report",
+  "rep": 1,
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "t3_report",
+  "rep": 2,
+  "error": null
+ }
+]

@@ -1,0 +1,986 @@
+[
+ {
+  "taskId": "long_state",
+  "variant": "bare",
+  "model": "deepseek-v4.1-flash",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 29,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 28,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 32,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_dedup",
+  "variant": "bare",
+  "model": "deepseek-v4.1-flash",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 3,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 7,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_calc",
+  "variant": "bare",
+  "model": "deepseek-v4.1-flash",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 13,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 14,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_state",
+  "variant": "bare",
+  "model": "glm-5.3-flash",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 23,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 29,
+    "reasoningLen": 8,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 28,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 32,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_dedup",
+  "variant": "bare",
+  "model": "glm-5.3-flash",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 3,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 7,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_calc",
+  "variant": "bare",
+  "model": "glm-5.3-flash",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 9,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 14,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 14,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 13,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 14,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_state",
+  "variant": "bare",
+  "model": "kimi-k3",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 138,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 102,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 84,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 79,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 63,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 21,
+    "reasoningLen": 73,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 24,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 29,
+    "reasoningLen": 11,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 28,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 32,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_dedup",
+  "variant": "bare",
+  "model": "kimi-k3",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 3,
+    "reasoningLen": 199,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 7,
+    "reasoningLen": 90,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 11,
+    "reasoningLen": 89,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 19,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 23,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 27,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ },
+ {
+  "taskId": "long_calc",
+  "variant": "bare",
+  "model": "kimi-k3",
+  "effort": "none",
+  "steps": [
+   {
+    "step": 1,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 131,
+    "finish": "stop"
+   },
+   {
+    "step": 2,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 80,
+    "finish": "stop"
+   },
+   {
+    "step": 3,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 127,
+    "finish": "stop"
+   },
+   {
+    "step": 4,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 5,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 6,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 7,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 8,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 9,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 10,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 11,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 15,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 12,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 13,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 16,
+    "reasoningLen": 0,
+    "finish": "stop"
+   },
+   {
+    "step": 14,
+    "pass": true,
+    "reason": "ok",
+    "contentLen": 17,
+    "reasoningLen": 0,
+    "finish": "stop"
+   }
+  ]
+ }
+]

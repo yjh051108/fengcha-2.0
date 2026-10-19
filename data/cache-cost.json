@@ -1,0 +1,78 @@
+{
+ "results": [
+  {
+   "tag": "P4_none#1",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P4_none#2",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P1_before#1",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P1_before#2",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P2_after#1",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P2_after#2",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P3_inside_tail#1",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P3_inside_tail#2",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  }
+ ],
+ "results2": [
+  {
+   "tag": "P4_none#change",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P1_before#change",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P2_after#change",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  },
+  {
+   "tag": "P3_inside_tail#change",
+   "cached": 0,
+   "completion": 800,
+   "reasoningTokens": 0
+  }
+ ]
+}

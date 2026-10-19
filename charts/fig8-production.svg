@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430" role="img" aria-labelledby="t8">
+  <rect width="720" height="430" fill="#fff"/>
+  <text id="t8" x="20" y="30" font-size="17" font-weight="700" fill="#111">图 8｜锚点在生产语料中的实际效果</text>
+  <text x="20" y="51" font-size="12.5" fill="#666">305 个真实会话 / 122,366 事件 · 分组依据=运行时上下文中是否含锚点原文</text>
+  <rect x="60" y="69" width="12" height="12" rx="2" fill="#9aa1ab"/>
+      <text x="78" y="79" font-size="11.5" fill="#444">无锚点 (n=6,541 块)</text><rect x="210" y="69" width="12" height="12" rx="2" fill="#2f6fed"/>
+      <text x="228" y="79" font-size="11.5" fill="#444">有锚点 (n=402 块)</text>
+  <line x1="60" y1="360" x2="690" y2="360" stroke="#eef0f3"/>
+    <text x="52" y="364" text-anchor="end" font-size="11" fill="#888">0.00</text><line x1="60" y1="296" x2="690" y2="296" stroke="#eef0f3"/>
+    <text x="52" y="300" text-anchor="end" font-size="11" fill="#888">25</text><line x1="60" y1="232" x2="690" y2="232" stroke="#eef0f3"/>
+    <text x="52" y="236" text-anchor="end" font-size="11" fill="#888">50</text><line x1="60" y1="168" x2="690" y2="168" stroke="#eef0f3"/>
+    <text x="52" y="172" text-anchor="end" font-size="11" fill="#888">75</text><line x1="60" y1="104" x2="690" y2="104" stroke="#eef0f3"/>
+    <text x="52" y="108" text-anchor="end" font-size="11" fill="#888">100</text>
+  <rect x="107.25" y="358.7456" width="94.815" height="1.2544" rx="2" fill="#9aa1ab"/>
+      <text x="154.6575" y="353.7456" text-anchor="middle" font-size="10.5" fill="#444" font-weight="600">0.49%</text><rect x="217.5" y="305.216" width="94.815" height="54.784" rx="2" fill="#2f6fed"/>
+      <text x="264.9075" y="300.216" text-anchor="middle" font-size="10.5" fill="#444" font-weight="600">21.4%</text><text x="217.5" y="380" text-anchor="middle" font-size="12" fill="#333">「We need」开头率</text><rect x="422.25" y="315.2" width="94.815" height="44.8" rx="2" fill="#9aa1ab"/>
+      <text x="469.6575" y="310.2" text-anchor="middle" font-size="10.5" fill="#444" font-weight="600">17.5%</text><rect x="532.5" y="281.152" width="94.815" height="78.848" rx="2" fill="#2f6fed"/>
+      <text x="579.9075" y="276.152" text-anchor="middle" font-size="10.5" fill="#444" font-weight="600">30.8%</text><text x="532.5" y="380" text-anchor="middle" font-size="12" fill="#333">We 类词占比</text>
+  <text x="20" y="416" font-size="11.5" fill="#888">这是自然观察（非随机对照），n=12 个带锚点会话，选择偏差无法排除。</text>
+</svg>

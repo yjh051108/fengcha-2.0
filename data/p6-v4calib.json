@@ -1,0 +1,98 @@
+[
+ {
+  "taskId": "x_derange",
+  "pass": true,
+  "detail": "14833",
+  "contentLen": 5,
+  "reasoningLen": 166,
+  "error": null
+ },
+ {
+  "taskId": "x_partition",
+  "pass": true,
+  "detail": "37338",
+  "contentLen": 5,
+  "reasoningLen": 295,
+  "error": null
+ },
+ {
+  "taskId": "x_matrix_pow",
+  "pass": true,
+  "detail": "6765",
+  "contentLen": 4,
+  "reasoningLen": 220,
+  "error": null
+ },
+ {
+  "taskId": "x_graph_count",
+  "pass": true,
+  "detail": "100000000",
+  "contentLen": 9,
+  "reasoningLen": 65,
+  "error": null
+ },
+ {
+  "taskId": "x_crt",
+  "pass": true,
+  "detail": "863",
+  "contentLen": 3,
+  "reasoningLen": 608,
+  "error": null
+ },
+ {
+  "taskId": "x_lattice_paths",
+  "pass": true,
+  "detail": "9694845",
+  "contentLen": 7,
+  "reasoningLen": 563,
+  "error": null
+ },
+ {
+  "taskId": "x_expected",
+  "pass": true,
+  "detail": "14/1",
+  "contentLen": 4,
+  "reasoningLen": 295,
+  "error": null
+ },
+ {
+  "taskId": "x_collatz",
+  "pass": true,
+  "detail": "111",
+  "contentLen": 3,
+  "reasoningLen": 191,
+  "error": null
+ },
+ {
+  "taskId": "x_string_count",
+  "pass": false,
+  "detail": "144",
+  "contentLen": 3,
+  "reasoningLen": 213,
+  "error": null
+ },
+ {
+  "taskId": "x_distinct_paths",
+  "pass": true,
+  "detail": "190569291",
+  "contentLen": 9,
+  "reasoningLen": 720,
+  "error": null
+ },
+ {
+  "taskId": "x_euler",
+  "pass": true,
+  "detail": "233333166668",
+  "contentLen": 12,
+  "reasoningLen": 2563,
+  "error": null
+ },
+ {
+  "taskId": "x_bigmod",
+  "pass": false,
+  "detail": "null",
+  "contentLen": 0,
+  "reasoningLen": 13340,
+  "error": null
+ }
+]

@@ -1,0 +1,1712 @@
+[
+ {
+  "anchor": "C0_base",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 2253,
+  "contentLen": 309,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 1,
+  "ind": 0,
+  "len": 695,
+  "contentLen": 325,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 2675,
+  "contentLen": 495,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 7,
+  "ind": 0,
+  "len": 2314,
+  "contentLen": 317,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.9545454545454546,
+  "col": 21,
+  "ind": 1,
+  "len": 15855,
+  "contentLen": 0,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 0.875,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.9743589743589743,
+  "col": 38,
+  "ind": 1,
+  "len": 15890,
+  "contentLen": 0,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 0.9545454545454546,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "MIXED",
+  "ratio": 0.7692307692307693,
+  "col": 10,
+  "ind": 3,
+  "len": 10342,
+  "contentLen": 863,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.5,
+   "b3": 0.8571428571428571
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.8823529411764706,
+  "col": 15,
+  "ind": 2,
+  "len": 4191,
+  "contentLen": 661,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.75
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 1087,
+  "contentLen": 224,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "C0_base",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 1836,
+  "contentLen": 214,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "MIXED",
+  "ratio": 0.8333333333333334,
+  "col": 5,
+  "ind": 1,
+  "len": 1256,
+  "contentLen": 295,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 0.5,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 3,
+  "ind": 0,
+  "len": 1240,
+  "contentLen": 295,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 3,
+  "ind": 0,
+  "len": 1923,
+  "contentLen": 639,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.8888888888888888,
+  "col": 8,
+  "ind": 1,
+  "len": 3338,
+  "contentLen": 440,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8571428571428571,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.90625,
+  "col": 29,
+  "ind": 3,
+  "len": 15459,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.75,
+   "b3": 0.9166666666666666
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.9032258064516129,
+  "col": 28,
+  "ind": 3,
+  "len": 15523,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 0.9230769230769231,
+   "b2": 0.8571428571428571,
+   "b3": 0.8888888888888888
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.9285714285714286,
+  "col": 13,
+  "ind": 1,
+  "len": 5787,
+  "contentLen": 775,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.75
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.9523809523809523,
+  "col": 20,
+  "ind": 1,
+  "len": 12114,
+  "contentLen": 856,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.75,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 2,
+  "ind": 0,
+  "len": 1027,
+  "contentLen": 327,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F1_paragraph",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 2218,
+  "contentLen": 362,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.8571428571428571,
+  "col": 6,
+  "ind": 1,
+  "len": 1452,
+  "contentLen": 324,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 1101,
+  "contentLen": 305,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.8695652173913043,
+  "col": 20,
+  "ind": 3,
+  "len": 3466,
+  "contentLen": 844,
+  "meta": 1,
+  "prof": {
+   "b1": 0.9,
+   "b2": 0.5,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 8,
+  "ind": 0,
+  "len": 3150,
+  "contentLen": 323,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 32,
+  "ind": 0,
+  "len": 11604,
+  "contentLen": 2533,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.9615384615384616,
+  "col": 25,
+  "ind": 1,
+  "len": 16063,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 22,
+  "ind": 0,
+  "len": 9137,
+  "contentLen": 735,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.9259259259259259,
+  "col": 25,
+  "ind": 2,
+  "len": 9436,
+  "contentLen": 813,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.9166666666666666
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "MIXED",
+  "ratio": 0.8333333333333334,
+  "col": 5,
+  "ind": 1,
+  "len": 1801,
+  "contentLen": 214,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F2_sentence",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "MIXED",
+  "ratio": 0.8333333333333334,
+  "col": 10,
+  "ind": 2,
+  "len": 3092,
+  "contentLen": 391,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8,
+   "b3": 0
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 6,
+  "ind": 0,
+  "len": 1411,
+  "contentLen": 332,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 6,
+  "ind": 0,
+  "len": 1638,
+  "contentLen": 288,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 13,
+  "ind": 0,
+  "len": 3286,
+  "contentLen": 659,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 23,
+  "ind": 0,
+  "len": 4263,
+  "contentLen": 372,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.9565217391304348,
+  "col": 22,
+  "ind": 1,
+  "len": 15929,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8333333333333334,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 39,
+  "ind": 0,
+  "len": 15821,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 14,
+  "ind": 0,
+  "len": 4745,
+  "contentLen": 719,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.9130434782608695,
+  "col": 21,
+  "ind": 2,
+  "len": 9985,
+  "contentLen": 917,
+  "meta": 1,
+  "prof": {
+   "b1": 0.9090909090909091,
+   "b2": 0.8,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 7,
+  "ind": 0,
+  "len": 1085,
+  "contentLen": 224,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "F3_fence",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 6,
+  "ind": 0,
+  "len": 1246,
+  "contentLen": 224,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 1,
+  "ind": 0,
+  "len": 814,
+  "contentLen": 261,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 1524,
+  "contentLen": 283,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 9,
+  "ind": 0,
+  "len": 3400,
+  "contentLen": 750,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 7,
+  "ind": 0,
+  "len": 3042,
+  "contentLen": 624,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 20,
+  "ind": 0,
+  "len": 16388,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 16,
+  "ind": 0,
+  "len": 15833,
+  "contentLen": 0,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.9285714285714286,
+  "col": 13,
+  "ind": 1,
+  "len": 5848,
+  "contentLen": 728,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.75,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 11,
+  "ind": 0,
+  "len": 6950,
+  "contentLen": 930,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 6,
+  "ind": 0,
+  "len": 1679,
+  "contentLen": 224,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A1_identity",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 1027,
+  "contentLen": 224,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 3,
+  "ind": 0,
+  "len": 1100,
+  "contentLen": 374,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 919,
+  "contentLen": 374,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 6,
+  "ind": 0,
+  "len": 3282,
+  "contentLen": 780,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 1,
+  "ind": 0,
+  "len": 1164,
+  "contentLen": 492,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.9354838709677419,
+  "col": 29,
+  "ind": 2,
+  "len": 16278,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.8333333333333334
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.9629629629629629,
+  "col": 26,
+  "ind": 1,
+  "len": 17103,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.9090909090909091
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.9285714285714286,
+  "col": 13,
+  "ind": 1,
+  "len": 5716,
+  "contentLen": 829,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.75,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 12,
+  "ind": 0,
+  "len": 7114,
+  "contentLen": 827,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "MIXED",
+  "ratio": 0.6666666666666666,
+  "col": 2,
+  "ind": 1,
+  "len": 1140,
+  "contentLen": 349,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 0.5
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A2_stance",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 6,
+  "ind": 0,
+  "len": 1653,
+  "contentLen": 345,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 3,
+  "ind": 0,
+  "len": 1024,
+  "contentLen": 290,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 2,
+  "ind": 0,
+  "len": 1188,
+  "contentLen": 329,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 2438,
+  "contentLen": 566,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 2,
+  "ind": 0,
+  "len": 959,
+  "contentLen": 588,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.8888888888888888,
+  "col": 16,
+  "ind": 2,
+  "len": 15952,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 0.8571428571428571,
+   "b2": 0.75,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 29,
+  "ind": 0,
+  "len": 15921,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "MIXED",
+  "ratio": 0.7419354838709677,
+  "col": 23,
+  "ind": 8,
+  "len": 14414,
+  "contentLen": 2,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.7272727272727273,
+   "b3": 0.7
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 10,
+  "ind": 0,
+  "len": 8548,
+  "contentLen": 750,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 2,
+  "ind": 0,
+  "len": 1128,
+  "contentLen": 354,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "A3_immersion",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 2,
+  "ind": 0,
+  "len": 1559,
+  "contentLen": 310,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 1460,
+  "contentLen": 295,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 1615,
+  "contentLen": 329,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 1928,
+  "contentLen": 600,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 5,
+  "ind": 0,
+  "len": 1726,
+  "contentLen": 619,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 29,
+  "ind": 0,
+  "len": 15420,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 27,
+  "ind": 0,
+  "len": 17300,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 17,
+  "ind": 0,
+  "len": 4961,
+  "contentLen": 921,
+  "meta": 1,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 19,
+  "ind": 0,
+  "len": 9021,
+  "contentLen": 756,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 1253,
+  "contentLen": 343,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "M1_anchor_plus_pull",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 2,
+  "ind": 0,
+  "len": 2043,
+  "contentLen": 288,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 2,
+  "ind": 0,
+  "len": 1008,
+  "contentLen": 300,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": null
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "用 Python 写一个函数，判断整数是",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 1165,
+  "contentLen": 307,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 3,
+  "ind": 0,
+  "len": 1108,
+  "contentLen": 473,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": null,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "分析这段代码的复杂度：for i in ",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 12,
+  "ind": 0,
+  "len": 6874,
+  "contentLen": 558,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 0.9615384615384616,
+  "col": 25,
+  "ind": 1,
+  "len": 14580,
+  "contentLen": 787,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 0.8571428571428571,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "设计一个简单的限流器，说明你的选择和理由",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 16,
+  "ind": 0,
+  "len": 15889,
+  "contentLen": 0,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "length",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 11,
+  "ind": 0,
+  "len": 4147,
+  "contentLen": 831,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "这段 SQL 为什么可能返回错误结果？S",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 0.875,
+  "col": 21,
+  "ind": 3,
+  "len": 11871,
+  "contentLen": 970,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 0.8181818181818182
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 0,
+  "label": "WE",
+  "ratio": 1,
+  "col": 4,
+  "ind": 0,
+  "len": 1927,
+  "contentLen": 279,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ },
+ {
+  "anchor": "NONE",
+  "task": "用 Python 写一个函数，把嵌套列表",
+  "rep": 1,
+  "label": "WE",
+  "ratio": 1,
+  "col": 3,
+  "ind": 0,
+  "len": 1528,
+  "contentLen": 276,
+  "meta": 0,
+  "prof": {
+   "b1": 1,
+   "b2": 1,
+   "b3": 1
+  },
+  "finish": "stop",
+  "error": null
+ }
+]

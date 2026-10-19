@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="406" viewBox="0 0 720 406" role="img" aria-labelledby="t3">
+  <rect width="720" height="406" fill="#fff"/>
+  <text id="t3" x="20" y="32" font-size="17" font-weight="700" fill="#111">图 3｜改 system prompt 是否有用（全部无效）</text>
+  <text x="20" y="54" font-size="12.5" fill="#666">真实 wire · effort=max · 每变体 n=10 · 指标同上</text>
+  <line x1="190" y1="72" x2="190" y2="350" stroke="#e3e6ea"/>
+  
+    <text x="180" y="95" text-anchor="end" font-size="13" fill="#222">S7 基线 + 尾部锚点</text>
+    <rect x="190" y="83" width="387.64" height="22" rx="3" fill="#16a34a" opacity="0.9"/>
+    <text x="585.64" y="98" font-size="13" fill="#333" font-weight="600">0.881</text>
+    <text x="180" y="129" text-anchor="end" font-size="13" fill="#222">S6 全量 you→we + 锚点</text>
+    <rect x="190" y="117" width="315.03999999999996" height="22" rx="3" fill="#e8730c" opacity="0.9"/>
+    <text x="513.04" y="132" font-size="13" fill="#333" font-weight="600">0.716</text>
+    <text x="180" y="163" text-anchor="end" font-size="13" fill="#222">S5 头尾插入 We 段</text>
+    <rect x="190" y="151" width="29.92" height="22" rx="3" fill="#dc2626" opacity="0.9"/>
+    <text x="227.92000000000002" y="166" font-size="13" fill="#333" font-weight="600">0.068</text>
+    <text x="180" y="197" text-anchor="end" font-size="13" fill="#222">S2 全量 you→we 重写</text>
+    <rect x="190" y="185" width="7.919999999999999" height="22" rx="3" fill="#dc2626" opacity="0.9"/>
+    <text x="205.92" y="200" font-size="13" fill="#333" font-weight="600">0.018</text>
+    <text x="180" y="231" text-anchor="end" font-size="13" fill="#222">S4 末尾插 We 段</text>
+    <rect x="190" y="219" width="6.16" height="22" rx="3" fill="#dc2626" opacity="0.9"/>
+    <text x="204.16" y="234" font-size="13" fill="#333" font-weight="600">0.014</text>
+    <text x="180" y="265" text-anchor="end" font-size="13" fill="#222">S3 开头插 We 段</text>
+    <rect x="190" y="253" width="5.72" height="22" rx="3" fill="#dc2626" opacity="0.9"/>
+    <text x="203.72" y="268" font-size="13" fill="#333" font-weight="600">0.013</text>
+    <text x="180" y="299" text-anchor="end" font-size="13" fill="#222">S1 persona 改 We 身份</text>
+    <rect x="190" y="287" width="5.28" height="22" rx="3" fill="#dc2626" opacity="0.9"/>
+    <text x="203.28" y="302" font-size="13" fill="#333" font-weight="600">0.012</text>
+    <text x="180" y="333" text-anchor="end" font-size="13" fill="#222">S0 基线（无锚点）</text>
+    <rect x="190" y="321" width="6.16" height="22" rx="3" fill="#9aa1ab" opacity="0.9"/>
+    <text x="204.16" y="336" font-size="13" fill="#333" font-weight="600">0.014</text>
+  <text x="20" y="384" font-size="11.5" fill="#888">结论：只有近场锚点（S7）有效；system prompt 侧所有改法都停留在基线水平。</text>
+</svg>
