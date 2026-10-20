@@ -55,17 +55,25 @@ fs.existsSync(path.join(HERE, "archive", "cordis.patch.yml.bak-before-headtail")
 console.log("\n=== 3. YAML 结构与预设 ===");
 const yamlText = fs.readFileSync(path.join(HERE, "cordis.patch.yml"), "utf8");
 const presetIds = [...yamlText.matchAll(/^ {8}id: (fengcha-[\w-]+)$/gm)].map((m) => m[1]);
-presetIds.length === 2 ? ok("2 个 preset: " + presetIds.join(", ")) : bad("preset 数量异常: " + presetIds.length);
+const EXPECTED_PRESETS = 3;
+presetIds.length === EXPECTED_PRESETS
+  ? ok(`${EXPECTED_PRESETS} 个 preset: ` + presetIds.join(", "))
+  : bad(`preset 数量异常: ${presetIds.length}（预期 ${EXPECTED_PRESETS}）`);
+// preset id 必须唯一
+new Set(presetIds).size === presetIds.length ? ok("preset id 无重复") : bad("preset id 有重复: " + presetIds.join(", "));
 
 console.log("\n=== 4. 预设命名 ===");
-yamlText.includes("name: 风插标准") ? ok("存在「风插标准」") : bad("缺「风插标准」");
-yamlText.includes("name: 风插 PTC") ? ok("存在「风插 PTC」") : bad("缺「风插 PTC」");
+for (const n of ["风插标准", "风插 PTC", "风插 匠人"]) {
+  yamlText.includes(`name: ${n}`) ? ok(`存在「${n}」`) : bad(`缺「${n}」`);
+}
 if (yamlText.includes("风插 · 路由") || yamlText.includes("风插 · PTC")) bad("残留旧命名");
 else ok("无旧命名残留");
 
 console.log("\n=== 5. 锚点配置 ===");
 const anchorBlocks = [...yamlText.matchAll(/- id: fengcha-anchor[\s\S]{0,340}?(?=\n {6,10}- id: )/g)].map((m) => m[0]);
-anchorBlocks.length === 2 ? ok("2 处锚点注册") : bad("锚点注册数量: " + anchorBlocks.length);
+anchorBlocks.length === presetIds.length
+  ? ok(`${anchorBlocks.length} 处锚点注册（每预设一处）`)
+  : bad(`锚点注册数量 ${anchorBlocks.length} 与预设数 ${presetIds.length} 不一致`);
 for (const [i, b] of anchorBlocks.entries()) {
   const mode = /mode: (head\+tail)/.exec(b)?.[1];
   const head = /headOrder: (\d+)/.exec(b)?.[1];
