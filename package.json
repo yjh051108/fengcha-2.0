@@ -1,6 +1,6 @@
 {
   "name": "dsh-fengcha",
-  "version": "2.0.0",
+  "version": "0.1.0",
   "type": "module",
   "description": "Fengcha 2.0 — DeepSeek Harness agent presets that make the model reason in the first person plural (We need / Our). Two presets: 风插标准 (standard) and 风插 PTC. Hard-instruction constraint, not an attractor; no capability claim.",
   "keywords": [
